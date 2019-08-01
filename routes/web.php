@@ -15,6 +15,12 @@ Route::get('/', function () {
     return view('pages.home');
 });
 
+
+Route::get('lienhe', function () {
+    return view('pages.lienhe');
+})->name('lienhe');
+
 Route::get('tinTuc', function () {
 	return view('pages.tinTuc');
 })->name('tinTuc');
+

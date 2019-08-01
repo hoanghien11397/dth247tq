@@ -11,6 +11,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet">
     <link rel="stylesheet" href="fonts/icomoon/style.css">
+    
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/jquery-ui.css">
@@ -21,6 +22,7 @@
     <link rel="stylesheet" href="css/jquery.fancybox.min.css">
 
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
     <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
 
@@ -30,8 +32,13 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/da679a1af2.js"></script>
 
+
+    <link rel="stylesheet" href="css/lienhe.css">
+
+
     <!-- Customer CSS -->
     <link rel="stylesheet" href="css/tinTuc.css">
+
 
 </head>
 
@@ -42,7 +49,7 @@
     @yield('content')
     @include('footer')
 
-    <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
   <script src="js/jquery-ui.js"></script>
   <script src="js/popper.min.js"></script>
@@ -55,6 +62,8 @@
   <script src="js/aos.js"></script>
   <script src="js/jquery.fancybox.min.js"></script>
   <script src="js/jquery.sticky.js"></script>
+  
+  <script src="https://kit.fontawesome.com/a3bc2a77c5.js"></script>
 
   
   <script src="js/main.js"></script>
