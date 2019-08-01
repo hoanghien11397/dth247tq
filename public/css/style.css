@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5,
     box-shadow: none !important; }
   .btn.btn-primary {
     background: #46ddb0;
-    border-color: #46ddb0;
+    border-color: 2px solid #46ddb0;
     color: #fff; }
     .btn.btn-primary:hover {
       background: #fff;

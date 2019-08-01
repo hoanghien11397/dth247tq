@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('pages.home');
 });
+
+Route::get('tinTuc', function () {
+	return view('pages.tinTuc');
+})->name('tinTuc');

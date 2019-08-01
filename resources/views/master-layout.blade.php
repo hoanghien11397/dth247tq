@@ -30,6 +30,8 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/da679a1af2.js"></script>
 
+    <!-- Customer CSS -->
+    <link rel="stylesheet" href="css/tinTuc.css">
 
 </head>
 
