@@ -496,8 +496,8 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
-            <h3 class="section-sub-title">Services</h3>
-            <h2 class="section-title mb-3">Our Services</h2>
+            <h3 class="section-sub-title">Contact</h3>
+            <h2 class="section-title mb-3" style="font-size: 30px">LIÊN HỆ</h2>
           </div>
         </div>
         <div class="row">
@@ -507,15 +507,15 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
 
             <form action="#" class="p-5 bg-white">
               
-              <h2 class="h4 text-black mb-5">Contact Form</h2> 
+              <h2 class="h4 text-black mb-5">Liên hệ</h2> 
 
               <div class="row form-group">
                 <div class="col-md-6 mb-3 mb-md-0">
-                  <label class="text-black" for="fname">First Name</label>
+                  <label class="text-black" for="fname">Họ Đệm</label>
                   <input type="text" id="fname" class="form-control">
                 </div>
                 <div class="col-md-6">
-                  <label class="text-black" for="lname">Last Name</label>
+                  <label class="text-black" for="lname">Tên</label>
                   <input type="text" id="lname" class="form-control">
                 </div>
               </div>
@@ -531,14 +531,14 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
               <div class="row form-group">
                 
                 <div class="col-md-12">
-                  <label class="text-black" for="subject">Subject</label> 
+                  <label class="text-black" for="subject">Chủ đề</label> 
                   <input type="subject" id="subject" class="form-control">
                 </div>
               </div>
 
               <div class="row form-group">
                 <div class="col-md-12">
-                  <label class="text-black" for="message">Message</label> 
+                  <label class="text-black" for="message">Nội dung</label> 
                   <textarea name="message" id="message" cols="30" rows="7" class="form-control" placeholder="Write your notes or questions here..."></textarea>
                 </div>
               </div>

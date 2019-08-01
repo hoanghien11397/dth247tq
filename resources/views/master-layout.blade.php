@@ -30,13 +30,15 @@
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
     <link rel="stylesheet" href="{{asset('css/dichvu.css')}}">
     
-
+  <!-- Customer CSS -->
+  <link rel="stylesheet" href="{{asset('css/tinTuc.css')}}">
 
 
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/da679a1af2.js"></script>
 
+    
 
 </head>
 

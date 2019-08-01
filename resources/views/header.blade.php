@@ -56,7 +56,7 @@
                     
                   </ul>
                 </li>
-                <li><a href="" class="nav-link">Tin tức</a>
+                <li><a href="{{ route('tinTuc') }}" class="nav-link">Tin tức</a>
                   <ul class="sub-menu">
                     <li><a href="">Tin tức Công nghệ</a></li>
                     <hr>
@@ -65,7 +65,7 @@
                     
                   </ul>
                </li>
-                <li><a href="{{ route('dich-vu') }}" class="nav-link">Dịch vụ</a>
+                <li><a href="{{ route('dichvu') }}" class="nav-link">Dịch vụ</a>
                 <ul class="sub-menu">
                     <li><a href="" >Đào tạo trực tuyến</a></li>
                       <hr>
