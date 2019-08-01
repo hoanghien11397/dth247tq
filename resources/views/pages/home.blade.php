@@ -29,17 +29,18 @@
     <div class="site-section" id="about-section">
       <div class="container">
         <div class="row align-items-lg-center">
-          <div class="col-md-6 mb-5 mb-lg-0 position-relative">
-            <img src="images/about_1.jpg" class="img-fluid" alt="Image">
-            <div class="experience">
+          <div class="col-md-6 mb-lg-0 position-relative">
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/YjyNxGa0ThI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <!-- <div class="experience">
               <span class="year">50 years</span>
               <span class="caption">of experience</span>
-            </div>
+            </div> -->
           </div>
           <div class="col-md-5 ml-auto">
             <h3 class="section-sub-title">About Us</h3>
-            <h2 class="section-title mb-3">Welcome To Consula</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui fuga ipsa, repellat blanditiis nihil, consectetur. Consequuntur eum inventore, rem maxime, nisi excepturi ipsam libero ratione adipisci alias eius vero vel!</p>
+            <h2 class="section-title mb-3">Welcome To Elearning</h2>
+            <p class="mb-4">E-learning là chữ viết tắt của Electronic Learning, dịch ra tiếng Việt có nghĩa là học trực tuyến hay giáo dục trực tuyến.
+E-learning là phương thức học tập thông qua một thiết bị có kế nối mạng với một máy chủ ở nơi khác có lưu trữ sẵn các nội dung học tập dạng số và phần mềm cần thiết để có thể tương tác (hỏi/ yêu cầu/ ra đề) với học viên học trực tuyến từ xa. Giáo viên có thể truyền tải hình ảnh, âm thanh hoặc tài liệu tương tác qua đường truyền băng thông rộng hoặc kết nối không dây (WiFi, WiMAX), mạng nội bộ (LAN).</p>
             <p><a href="#" class="btn btn-primary btn-black--hover">Learn More</a></p>
           </div>
         </div>
@@ -50,8 +51,8 @@
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
-            <h3 class="section-sub-title">Team</h3>
-            <h2 class="section-title mb-3">Our Team</h2>
+            <!-- <h3 class="section-sub-title">Team</h3> -->
+            <h3 class="section-title mb-3" style="font-size: 30px">BAN CỐ VẤN</h3>
           </div>
         </div>
         <div class="row">
@@ -158,7 +159,7 @@
         <div class="row mb-5">
           <div class="col-12 text-center">
             <h3 class="section-sub-title">Services</h3>
-            <h2 class="section-title mb-3">Our Services</h2>
+            <h2 class="section-title mb-3" style="font-size: 30px">GIẢI PHÁP ĐÀO TẠO</h2>
           </div>
         </div>
         <div class="row align-items-stretch">
@@ -298,7 +299,7 @@
         </div>
     </section>
 
-    <section class="site-section" id="about-section">
+    <!-- <section class="site-section" id="about-section">
       <div class="container">
         <div class="row mb-5">
           
@@ -338,7 +339,7 @@
           
         </div>
       </div>
-    </section>
+    </section> -->
   
     
     
@@ -347,8 +348,8 @@
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
-            <h3 class="section-sub-title">Blog</h3>
-            <h2 class="section-title mb-3">Our Blog Posts</h2>
+            <h3 class="section-sub-title">News</h3>
+            <h2 class="section-title mb-3" style="font-size: 30px">TIN TỨC</h2>
           </div>
         </div>
 
