@@ -31,7 +31,7 @@
       </div> 
     </div>
 
-<header class="site-navbar py-4 bg-white js-sticky-header site-navbar-target" role="banner">
+<header class="site-navbar py-4 bg-white js-sticky-header site-navbar-target" role="banner" style="border-bottom:1px solid 	#C0C0C0">
 
       <div class="container">
         <div class="row align-items-center">
@@ -43,38 +43,39 @@
             <nav class="site-navigation position-relative text-right main-navbar" role="navigation">
 
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                <li><a href="" class="nav-link">Trang chủ</a> 
+                <li><a href="" class="nav-link" style="font-size: 18px">Trang chủ</a> 
                 
                 </li>
-                <li><a href="" class="nav-link">Giới thiệu</a>
+                <li><a href="" class="nav-link"style="font-size: 18px">Giới thiệu</a>
                 <ul class="sub-menu">
-                    <li><a href="">Công ty Talent Wins</a></li>
+                    <li><a href=""style="font-size: 18px">Công ty Talent Wins</a></li>
                     <hr>
-                    <li><a href="#">E-Learning</a></li>
+                    <li><a href="#"style="font-size: 18px">E-Learning</a></li>
                     <hr>
-                    <li><a href="#">Ban cố vấn</a></li>
+                    <li><a href="#"style="font-size: 18px">Ban cố vấn</a></li>
                     
                   </ul>
                 </li>
-                <li><a href="{{ route('tinTuc') }}" class="nav-link">Tin tức</a>
+                <li><a href="{{ route('tinTuc') }}" class="nav-link" style="font-size: 18px">Tin tức</a>
                   <ul class="sub-menu">
-                    <li><a href="">Tin tức Công nghệ</a></li>
+                    <li><a href=""style="font-size: 18px">Tin tức Công nghệ</a></li>
                     <hr>
-                    <li><a href="#">Tin tức Doanh nghiệp</a></li>
+                    <li><a href="#"style="font-size: 18px">Tin tức Doanh nghiệp</a></li>
                
                     
                   </ul>
                </li>
-                <li><a href="{{ route('dichvu') }}" class="nav-link">Dịch vụ</a>
+                <li><a href="{{ route('dichvu') }}" class="nav-link" style="font-size: 18px">Dịch vụ</a>
                 <ul class="sub-menu">
-                    <li><a href="" >Đào tạo trực tuyến</a></li>
+                    <li><a href="" style="font-size: 18px">Đào tạo trực tuyến</a></li>
                       <hr>
-                    <li><a href="#">Kiểm tra trực tuyến</a></li>
+                    <li><a href="#"style="font-size: 18px">Kiểm tra trực tuyến</a></li>
                     
                   </ul>
               </li>
-                <li><a href="" class="nav-link">Trải nghiệm</a></li>
-                <li><a href="{{ route('lienhe') }}" class="nav-link">Liên hệ</a></li>
+                <li><a href="{{ route('traiNghiem') }}" class="nav-link" style="font-size: 18px">Trải nghiệm</a></li>
+         
+                <li><a href="{{ route('lienhe') }}" class="nav-link" style="font-size: 18px">Liên hệ</a></li>
               
               </ul>
             </nav>

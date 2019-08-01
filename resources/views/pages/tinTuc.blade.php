@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="blog-title text-center">
-                            <span class="blog-title-text">Tin Tức</span>
+                            <span class="blog-title-text">TIN TỨC</span>
                         
                     </div>
                 </div>
