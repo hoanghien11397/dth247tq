@@ -1758,7 +1758,7 @@ h1, h2, h3, h4, h5,
 .main-menu li:hover .sub-menu {
     visibility: visible;
     opacity: 1;
-    margin-top: 0;
+    margin-top: 0px;
 }
 
 .main-menu li:hover>a {
@@ -1803,3 +1803,16 @@ h1, h2, h3, h4, h5,
     text-decoration: none;
 }
 
+
+@media (max-width: 576px) {
+  .sub-menu {
+    display: none;
+  
+  }
+  .site-nav-wrap li:hover .sub-menu {
+   display: block;
+    
+ 
+}
+
+}

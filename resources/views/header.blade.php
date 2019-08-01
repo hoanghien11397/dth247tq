@@ -37,7 +37,7 @@
         <div class="row align-items-center">
           
           <div class="col-6 col-xl-2">
-            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0"><img src="{{ asset('images/logo1.jpg')}}" style="width: 80%; height: 80%" alt=""></a></h1>
+            <h1 class="mb-0 site-logo"><a href="#" class="text-black h2 mb-0"><img src="{{ asset('images/logo1.jpg')}}" style="width: 80%; height: 80%" alt=""></a></h1>
           </div>
           <div class="col-12 col-md-10 d-none d-xl-block">
             <nav class="site-navigation position-relative text-right main-navbar" role="navigation">
@@ -65,7 +65,7 @@
                     
                   </ul>
                </li>
-                <li><a href="" class="nav-link">Dịch vụ</a>
+                <li><a href="{{ route('dichvu') }}" class="nav-link">Dịch vụ</a>
                 <ul class="sub-menu">
                     <li><a href="" >Đào tạo trực tuyến</a></li>
                       <hr>
@@ -74,13 +74,13 @@
                   </ul>
               </li>
                 <li><a href="" class="nav-link">Trải nghiệm</a></li>
-                <li><a href="" class="nav-link">Liên hệ</a></li>
+                <li><a href="{{ route('lienhe') }}" class="nav-link">Liên hệ</a></li>
               
               </ul>
             </nav>
           </div>
 
-
+<!-- mobile -->
           <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black float-right"><span class="icon-menu h3"></span></a></div>
 
         </div>
