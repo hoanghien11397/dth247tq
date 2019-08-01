@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('pages.home');
 });
+
+Route::get('lienhe', function () {
+    return view('pages.lienhe');
+})->name('lienhe');
