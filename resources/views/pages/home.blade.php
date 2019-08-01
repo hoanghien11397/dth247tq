@@ -545,7 +545,7 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
 
               <div class="row form-group">
                 <div class="col-md-12">
-                  <input type="submit" value="Send Message" class="btn btn-primary btn-md text-white">
+                  <input type="submit" value="Send Message" class="btn btn-primary btn-md ">
                 </div>
               </div>
 
@@ -571,12 +571,6 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
       </div>
     </section>
 
-    <a href="#" class="bg-primary py-5 d-block">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-md10"><h2 class="text-white">Let's Get Started</h2></div>
-        </div>
-      </div>  
-    </a>
+    
     
     @endsection

@@ -18,23 +18,20 @@
     <link rel="stylesheet" href="{{asset('css/owl.carousel.min.css')}}">
     <link rel="stylesheet" href="{{asset('css/owl.theme.default.min.css')}}">
     <link rel="stylesheet" href="{{asset('css/animate.css')}}">
-
     <link rel="stylesheet" href="{{asset('css/jquery.fancybox.min.css')}}">
-
     <link rel="stylesheet" href="{{asset('css/bootstrap-datepicker.css')}}">
-    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="{{asset('css/bootstrap-datepicker.css')}}">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-
-    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
-
+    <link rel="stylesheet" href="{{asset('fonts/flaticon/font/flaticon.css')}}">
     <link rel="stylesheet" href="{{asset('css/aos.css')}}">
 
 
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
     <link rel="stylesheet" href="{{asset('css/dichvu.css')}}">
-    
-  <!-- Customer CSS -->
-  <link rel="stylesheet" href="{{asset('css/tinTuc.css')}}">
+    <link rel="stylesheet" href="{{asset('css/lienhe.css')}}">
+    <link rel="stylesheet" href="{{asset('css/tinTuc.css')}}">
+ 
+  
 
 
 
@@ -43,11 +40,7 @@
 
     
 
-    <link rel="stylesheet" href="css/lienhe.css">
 
-
-    <!-- Customer CSS -->
-    <link rel="stylesheet" href="css/tinTuc.css">
 
 
 </head>

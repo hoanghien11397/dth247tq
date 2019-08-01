@@ -1294,7 +1294,7 @@ h1, h2, h3, h4, h5,
       font-style: italic; }
 
 .feature-3 {
-  background: #28d7a3; }
+  background: #28d7a3 !important; }
 
 .border-primary {
   position: relative; }
@@ -1395,7 +1395,7 @@ h1, h2, h3, h4, h5,
   line-height: 40px;
   border-radius: 50%;
   display: inline-block;
-  background: #46ddb0;
+  background: #46ddb0 !important;
   color: #fff; }
 
 .custom-pagination span {
@@ -1462,7 +1462,7 @@ h1, h2, h3, h4, h5,
     .popular-category:hover .icon {
       color: #fff; }
     .popular-category:hover .number {
-      background: #30d9a7;
+      background: #30d9a7 !important;
       color: #fff; }
 
 @media (max-width: 1199.98px) {
