@@ -44,34 +44,32 @@
 
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
                 <li><a href="" class="nav-link">Trang chủ</a> 
-                  <ul class="sub-menu">
-                    <li><a href="">Tiniboo</a></li>
-                    <li><a href="#">Carter's Baby</a></li>
-                    <li><a href="#">Baby Gap</a></li>
-                    
-                  </ul>
+                
                 </li>
                 <li><a href="" class="nav-link">Giới thiệu</a>
                 <ul class="sub-menu">
-                    <li><a href="">Tiniboo</a></li>
-                    <li><a href="#">Carter's Baby</a></li>
-                    <li><a href="#">Baby Gap</a></li>
+                    <li><a href="">Công ty Talent Wins</a></li>
+                    <hr>
+                    <li><a href="#">E-Learning</a></li>
+                    <hr>
+                    <li><a href="#">Ban cố vấn</a></li>
                     
                   </ul>
                 </li>
-                <li><a href="" class="nav-link">Tin tức</a>
+                <li><a href="{{ route('tinTuc') }}" class="nav-link">Tin tức</a>
                   <ul class="sub-menu">
-                    <li><a href="">Tiniboo</a></li>
-                    <li><a href="#">Carter's Baby</a></li>
-                    <li><a href="#">Baby Gap</a></li>
+                    <li><a href="">Tin tức Công nghệ</a></li>
+                    <hr>
+                    <li><a href="#">Tin tức Doanh nghiệp</a></li>
+               
                     
                   </ul>
                </li>
                 <li><a href="" class="nav-link">Dịch vụ</a>
                 <ul class="sub-menu">
-                    <li><a href="">Tiniboo</a></li>
-                    <li><a href="#">Carter's Baby</a></li>
-                    <li><a href="#">Baby Gap</a></li>
+                    <li><a href="" >Đào tạo trực tuyến</a></li>
+                      <hr>
+                    <li><a href="#">Kiểm tra trực tuyến</a></li>
                     
                   </ul>
               </li>

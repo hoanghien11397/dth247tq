@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5,
     box-shadow: none !important; }
   .btn.btn-primary {
     background: #46ddb0;
-    border-color: #46ddb0;
+    border-color: 2px solid #46ddb0;
     color: #fff; }
     .btn.btn-primary:hover {
       background: #fff;
@@ -1784,6 +1784,7 @@ h1, h2, h3, h4, h5,
     -webkit-box-shadow: 2px 7px 20px rgba(0, 0, 0, 0.05);
     box-shadow: 2px 7px 20px rgba(0, 0, 0, 0.05);
     text-align: left;
+  
 }
 
 .main-menu .sub-menu li {
@@ -1798,7 +1799,7 @@ h1, h2, h3, h4, h5,
 }
 
 .main-menu .sub-menu li a:hover {
-    color: #f51167;
+    color: #46ddb0;
     text-decoration: none;
 }
 

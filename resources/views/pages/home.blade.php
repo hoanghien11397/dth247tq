@@ -102,7 +102,7 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
       </div>
     </section>
 
-    <section class="site-section">
+    <!-- <section class="site-section">
       <div class="container">
         <div class="row mb-5">
           <div class="col-12">
@@ -148,7 +148,7 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
 
 
@@ -158,38 +158,50 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
-            <h3 class="section-sub-title">Services</h3>
-            <h2 class="section-title mb-3" style="font-size: 30px">GIẢI PHÁP ĐÀO TẠO</h2>
+            <h3 class="section-sub-title">E-Learning</h3>
+            <h2 class="section-title mb-3" style="font-size: 30px">GIẢI PHÁP ĐÀO TẠO E-LEARNING</h2>
           </div>
         </div>
         <div class="row align-items-stretch">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
             <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary icon-autorenew"></span></div>
+              <div class="unit-4-icon mr-4"><img src="http://trinam.com.vn/images/trinam/giaiphap/ic1.png" alt=""></div>
               <div>
-                <h3>Business Consulting</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Learn More</a></p>
+                <h3>1. Xác định nhu cầu đào tạo</h3>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Khảo sát nhu cầu đào tạo</span>
+                <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Thi, kiểm tra đánh giá xác định năng lực, sự thiếu hụt kiến thức kỹ năng</span>
               </div>
             </div>
           </div>
+
+
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary icon-backspace"></span></div>
+              <div class="unit-4-icon mr-4"><img src="http://trinam.com.vn/images/trinam/giaiphap/ic2.png" alt=""></div>
               <div>
-                <h3>Market Analysis</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Learn More</a></p>
+                <h3>2. Lập và quản lý kế hoạch đào tạo</h3>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Lập kế hoạch đào tạo</span>
+                <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Quản lý kế hoạch đào tạo</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Quản lý các chương trình đào tạo</span>
+
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="200">
             <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary icon-av_timer"></span></div>
+              <div class="unit-4-icon mr-4"><img src="http://trinam.com.vn/images/trinam/giaiphap/ic3.png" alt=""></div>
               <div>
-                <h3>User Monitoring</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Learn More</a></p>
+                <h3>3. Học tập</h3>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Đào tạo theo chức danh, kế hoạch, mục tiêu cá nhân</span>
+                <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Đánh giá trong đào tạo: đánh giá học viên; đánh giá giảng viên; đánh giá tổ chức khóa học...</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Quản lý chi phí đào tạo</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Quản lý khóa học</span>
               </div>
             </div>
           </div>
@@ -197,35 +209,126 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
 
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="300">
             <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary icon-beenhere"></span></div>
-              <div>
-                <h3>Insurance Consulting</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Learn More</a></p>
+              <div class="unit-4-icon mr-4">
+                <img src="http://trinam.com.vn/images/trinam/giaiphap/ic4.png" alt="">
               </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="400">
-            <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary icon-business_center"></span></div>
               <div>
-                <h3>Financial Investment</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Learn More</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="500">
-            <div class="unit-4 d-flex">
-              <div class="unit-4-icon mr-4"><span class="text-primary icon-cloud_done"></span></div>
-              <div>
-                <h3>Financial Management</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Learn More</a></p>
+                <h3>4. Thi - Kiểm tra</h3>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Tổ chức thi: Thi chính thức; thi thử; thi ôn luyện</span>
+                <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Thi và giám sát thi</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Chấm thi và lên điểm</span>
+                <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Khiếu nại và giải quyết khiếu nại</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Quản lý chi phí thi</span>
+                <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Quản lý ngân hàng câu hỏi</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Quản lý ngân hàng đề thi</span>
+                
               </div>
             </div>
           </div>
 
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="400">
+            <div class="unit-4 d-flex">
+              <div class="unit-4-icon mr-4"><img src="http://trinam.com.vn/images/trinam/giaiphap/ic9.png" alt="">></div>
+              <div>
+                <h3>5. Học, thi trên Mobile</h3>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Học theo chức danh, kế hoạch, mục tiêu cá nhân</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Thi chính thức; thi thử; thi ôn luyện</span>
+                <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Xem và tham khỏa thư viện</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Học khóa học realtime</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="500">
+            <div class="unit-4 d-flex">
+              <div class="unit-4-icon mr-4"><img src="http://trinam.com.vn/images/trinam/giaiphap/ic5.png" alt=""></div>
+              <div>
+                <h3>6. Thư viện</h3>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Thư viện bài giảng</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Thư viện tài liệu</span>
+                <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Thư viện chương trình đào tạo</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Quản lý chức danh</span>
+               <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Quản lý khung kiến thức</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Quản lý khung năng lực</span>
+               
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="500">
+            <div class="unit-4 d-flex">
+              <div class="unit-4-icon mr-4"><img src="http://trinam.com.vn/images/trinam/giaiphap/ic7.png" alt=""></div>
+              <div>
+                <h3>7. Giảng dạy trực tuyến Realtime</h3>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Quản lý lịch dạy trực tuyến</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Thiết lập các đối tượng tham dự; thông báo tới các đối tượng quá SMS, Email...</span>
+                <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Chuẩn bị tài nguyên cho buổi dạy trực tuyến</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Dạy học trực tuyến bằng webcam, micro, bảng trắng, chia sẻ màn hình...</span>
+               <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Ghi và xem lại lịch dạy trực tuyến</span>
+               
+               
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="500">
+            <div class="unit-4 d-flex">
+              <div class="unit-4-icon mr-4"><img src="http://trinam.com.vn/images/trinam/giaiphap/ic8.png" alt=""></div>
+              <div>
+                <h3>8. Quản trị, báo cáo</h3>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Quản lý người dùng</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Quản lý cơ cấu, tổ chức, nhóm người dùng</span>
+                <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Phân quyền hệ thống</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Giám sát hệ thống</span>
+               <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Báo cáo thống kê</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Theo dõi đánh giá M & E và phân tích dự báo ra quyết định</span>
+               
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="500">
+            <div class="unit-4 d-flex">
+              <div class="unit-4-icon mr-4"><img src="http://trinam.com.vn/images/trinam/giaiphap/ic6.png" alt=""></div>
+              <div>
+                <h3>9. Đánh giá sau đào tạo</h3>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Học viên tự đánh giá nhận xét</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Người quản lý trực tiếp nhận xét đánh giá</span>
+                <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Chuẩn bị tài nguyên cho buổi dạy trực tuyến</span>
+               <br>
+               <span><i class="fas fa-check" style="color:#61c357"></i>  Giảng viên đánh giá</span>
+               <br>
+                <span><i class="fas fa-check" style="color:#61c357"></i>  Lãnh đạo đánh giá</span>
+               
+               
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
