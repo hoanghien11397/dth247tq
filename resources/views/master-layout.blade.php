@@ -32,6 +32,8 @@
 
     <!-- Customer CSS -->
     <link rel="stylesheet" href="css/tinTuc.css">
+    <link rel="stylesheet" href="css/traiNghiem.css">
+
 
 </head>
 

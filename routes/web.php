@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('tinTuc', function () {
 	return view('pages.tinTuc');
 })->name('tinTuc');
+
+Route::get('traiNghiem', function () {
+	return view('pages.traiNghiem');
+})->name('traiNghiem');
