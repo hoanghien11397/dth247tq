@@ -74,7 +74,7 @@
                   </ul>
               </li>
                 <li><a href="" class="nav-link">Trải nghiệm</a></li>
-                <li><a href="" class="nav-link">Liên hệ</a></li>
+                <li><a href="{{ route('lienhe') }}" class="nav-link">Liên hệ</a></li>
               
               </ul>
             </nav>

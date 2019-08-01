@@ -11,6 +11,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,900" rel="stylesheet">
     <link rel="stylesheet" href="fonts/icomoon/style.css">
+    
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/jquery-ui.css">
@@ -21,6 +22,8 @@
     <link rel="stylesheet" href="{{asset('css/jquery.fancybox.min.css')}}">
 
     <link rel="stylesheet" href="{{asset('css/bootstrap-datepicker.css')}}">
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
     <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
 
@@ -39,6 +42,13 @@
     <script src="https://kit.fontawesome.com/da679a1af2.js"></script>
 
     
+
+    <link rel="stylesheet" href="css/lienhe.css">
+
+
+    <!-- Customer CSS -->
+    <link rel="stylesheet" href="css/tinTuc.css">
+
 
 </head>
 
