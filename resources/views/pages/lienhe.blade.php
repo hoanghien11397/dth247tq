@@ -7,15 +7,16 @@
   <!-- top content -->
   <div class="row" style="padding-top:100px">
     <div class="col-12">
-      <div class="blog-title text-center">
-        <span class="blog-title-text">LIÊN HỆ</span>
-
-      </div>
+    <div class="tt-1">
+                   LIÊN HỆ
+                </div>
+                <div class="sp-1"></div>
+                </div>
     </div>
   </div>
 
   <!-- bann do -->
-  <div class="content-main">
+  <div class="content-main mt-5">
     <div class="container">
       <div class="contact ">
         <div class="row">

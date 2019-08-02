@@ -3,7 +3,7 @@
 
 @section('content')
   <main>
-    <div class="vetrinam">
+    <div id="vetrinam">
       <div class="container">
 
         <!-- top content -->

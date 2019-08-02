@@ -34,7 +34,7 @@
       </div> 
     </div>
 
-<header class="site-navbar py-4 bg-white js-sticky-header site-navbar-target" role="banner" style="border-bottom: 1px solid #AEB404">
+<header class="site-navbar py-2 bg-white js-sticky-header site-navbar-target" role="banner" >
 
       <div class="container">
         <div class="row align-items-center">
@@ -49,7 +49,7 @@
                 <li><a href="" class="nav-link" style="font-size: 18px">Trang chủ</a> 
                 
                 </li>
-                <li><a href="" class="nav-link"style="font-size: 18px">Giới thiệu</a>
+                <li><a href="{{ route('gioithieu') }}" class="nav-link"style="font-size: 18px">Giới thiệu</a>
                 <ul class="sub-menu ">
                     <li><a href=""style="font-size: 18px">Công ty Talent Wins</a></li>
                     <hr>

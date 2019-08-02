@@ -1,51 +1,51 @@
-* {
+#vetrinam * {
     font-family: Arial !important; 
     font-size: 14px;
     text-align: justify;
     line-height: 30px;
 }
-.vetrinam {
-    background: url(http://trinam.com.vn/images/trinam/gioithieu/bg/gioithieu.jpg?v=1) no-repeat;
+#vetrinam {
+    
     background-size: contain;
     min-height: 600px;
-    padding-top: 350px;
+    padding-top: 100px;
 }
 
-.sp {
+#vetrinam .sp {
     margin: auto;
     width: 100px;
     border-bottom: 3px solid #0078ca;
     height: 5px;
 }
 
-.tt {
+#vetrinam .tt {
     text-align: center;
     font-size: 20px;
     font-weight: bold;
     line-height: 40px;
     padding-top: 20px;
 }
-#nd {
+#vetrinam #nd {
     margin-top: 40px;
 }
-.thanhlap {
+#vetrinam .thanhlap {
     display: inline-block;
     width: 250px;
     margin-bottom: 20px;
 }
-.nam {
+#vetrinam .nam {
     color: #0078ca;
     font-size: 35px;
     font-weight: bold;
 }
-.giaithuong .content .tt1 {
+#vetrinam .giaithuong .content .tt1 {
     text-align: center;
     font-size: 18px;
     line-height: 40px;
     font-weight: bold;
     color: #0078ca;
 }
-.giaithuong .content .cc1 .cm {
+#vetrinam .giaithuong .content .cc1 .cm {
     margin: auto;
     text-align: center;
     font-size: 14px;
@@ -53,11 +53,11 @@
     line-height: 22px;
     padding-top: 8px;
 }
-.giaithuong {
+#vetrinam .giaithuong {
     background: #f4f6f8;
    
 }
-.giaithuong .content .cc1 {
+#vetrinam .giaithuong .content .cc1 {
     text-align: center;
     line-height: 30px;
     padding-top: 20px;
