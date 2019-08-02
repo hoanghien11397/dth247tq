@@ -8,14 +8,15 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-12">
-                    <div class="blog-title text-center">
-                            <span class="blog-title-text">TIN TỨC</span>
-                        
-                    </div>
+                        <div class="tt-1">
+                            TIN TỨC
+                        </div>
+                        <div class="sp-1"></div>
+                        </div>
                 </div>
             </div>
 
-            <div class="row">
+            <div class="row mt-5">
                 <!-- Single Blog Area -->
                 <div class="col-12 col-lg-4">
                     <div class="single-blog-area mb-100 wow fadeInUp" data-wow-delay="250ms">

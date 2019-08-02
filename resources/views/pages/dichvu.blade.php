@@ -6,19 +6,19 @@
        <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="blog-title text-center">
-                            <span class="blog-title-text">DỊCH VỤ</span>
-                        
-                    </div>
+                <div class="tt-1">
+                    DỊCH VỤ E-LEARNING
+                </div>
+                <div class="sp-1"></div>
                 </div>
             </div>
-            <div class="row">
-                    <div class="col-md-4">
+            <div class="row mt-5">
+                    <div class="col-12 col-md-4">
                         <div class="thumbnail">
                             <img src="https://omt.vn/wp-content/uploads/2014/05/omt-logo-final1-409x230.jpg" alt="" style="width:80%;height: 80%">
                         </div>
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-12 col-md-8">
                         <div>
                             <h6>
                                 <a href=""style="font-size: 22px">Kiểm tra trực tuyến</a>

@@ -7,12 +7,13 @@
 <div id="traiNghiem">
     <div class="container">
 
-        <div class="blog-title text-center">
-            <span class="blog-title-text">TRẢI NGHIỆM CÙNG EWINS</span>
+    <div class="tt-1">
+                   TRẢI NGHIỆM E-LEARNING
+                </div>
+                <div class="sp-1"></div>
+                </div>
 
-        </div>
-
-        <div class="row">
+        <div class="row mt-5">
 
 
             <!-- product -->
