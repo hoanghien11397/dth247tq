@@ -76,9 +76,9 @@ h1, h2, h3, h4, h5,
     border-color: 2px solid #46ddb0;
     color: #fff; }
     .btn.btn-primary:hover {
-      background: #fff;
+      background: #007bff;
       border-color: #fff;
-      color: #46ddb0; }
+      color: #fff; }
     .btn.btn-primary.btn-black--hover:hover {
       background: #666666;
       color: #fff; }
@@ -120,11 +120,10 @@ h1, h2, h3, h4, h5,
   border-top: 1px solid #edf0f5 !important; }
 
 .site-footer {
-  padding: 4em 0;
+  padding: 4em 0 0 0;
   background: #333333; }
   @media (min-width: 768px) {
-    .site-footer {
-      padding: 8em 0; } }
+    }
   .site-footer .border-top {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important; }
   .site-footer p {
@@ -1769,7 +1768,7 @@ h1, h2, h3, h4, h5,
 .main-menu .sub-menu {
     position: absolute;
     list-style: none;
-    width: 220px;
+    width: 200px;
     left: 0;
     top: 100%;
     padding: 20px 0;
@@ -1795,7 +1794,7 @@ h1, h2, h3, h4, h5,
     display: block;
     color: #000;
     margin-right: 0;
-    padding: 8px 20px;
+    padding: 12px 20px;
 }
 
 .main-menu .sub-menu li a:hover {
@@ -1845,3 +1844,11 @@ h1, h2, h3, h4, h5,
     line-height: 40px;
     padding-top: 20px;
 }
+
+
+
+
+
+
+/* slide */
+

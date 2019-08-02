@@ -8,7 +8,7 @@
   <div class="row" style="padding-top:100px">
     <div class="col-12">
     <div class="tt-1">
-                   LIÊN HỆ
+                  THÔNG TIN LIÊN HỆ
                 </div>
                 <div class="sp-1"></div>
                 </div>
@@ -20,6 +20,35 @@
     <div class="container">
       <div class="contact ">
         <div class="row">
+        
+          <div class="col-sm-7">
+            <form  style="padding-right:20px">
+              <div class="form-group">
+                <label for="email">Tên của bạn</label>
+                <input type="email" class="form-control" id="email" placeholder="Nhập họ và tên..." name="email">
+              </div>
+              <div class="form-group">
+                <label for="email">Địa chỉ email</label>
+                <input type="email" class="form-control" id="email" placeholder="Nhập Email..." name="email">
+              </div>
+              <div class="form-group">
+                <label for="email">Số điện thoại</label>
+                <input type="email" class="form-control" id="email" placeholder="Nhập số điện thoại" name="email">
+              </div>
+
+              <div class="form-group">
+                <label for="comment">Nội dung</label>
+                <textarea class="form-control" rows="4" id="comment" placeholder="Nhập nội dung" name="text"></textarea>
+              </div>
+              <div class="form-group form-check">
+                <label class="form-check-label">
+                  <input class="form-check-input" type="checkbox" name="remember"> Ghi nhớ
+                </label>
+              </div>
+              <button type="submit" class="btn btn-primary">Gửi</button>
+            </form>
+          </div>
+
           <div class="col-sm-5">
             <!-- <h3 class="contact__company-title">Liên hệ</h3> -->
 
@@ -41,33 +70,6 @@
             </div>
 
 
-          </div>
-          <div class="col-sm-7">
-            <form  style="padding-left:20px">
-              <div class="form-group">
-                <label for="email">Tên của bạn</label>
-                <input type="email" class="form-control" id="email" placeholder="your name" name="email">
-              </div>
-              <div class="form-group">
-                <label for="email">Địa chỉ email</label>
-                <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
-              </div>
-              <div class="form-group">
-                <label for="email">Số điện thoại</label>
-                <input type="email" class="form-control" id="email" placeholder="Số điện thoại" name="email">
-              </div>
-
-              <div class="form-group">
-                <label for="comment">Nội dung</label>
-                <textarea class="form-control" rows="4" id="comment" placeholder="nội dung" name="text"></textarea>
-              </div>
-              <div class="form-group form-check">
-                <label class="form-check-label">
-                  <input class="form-check-input" type="checkbox" name="remember"> Remember me
-                </label>
-              </div>
-              <button type="submit" class="btn btn-primary">Gửi</button>
-            </form>
           </div>
         </div>
       </div>
