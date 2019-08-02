@@ -2,7 +2,7 @@
 @extends('master-layout')
 
 @section('content')
-   <section style="padding:100px" id="dv">
+   <section style="padding-top:100px" id="dv">
        <div class="container">
             <div class="row">
                 <div class="col-12">
