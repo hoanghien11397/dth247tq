@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5,
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-primary {
-    background: #46ddb0;
+    background: #04B404;
     border-color: 2px solid #46ddb0;
     color: #fff; }
     .btn.btn-primary:hover {
@@ -1692,7 +1692,7 @@ h1, h2, h3, h4, h5,
   text-transform: uppercase; }
 
 .section-title {
-  color: #007bff;
+  color: #04B404;
   font-size: 40px;
   font-weight: 900; }
   @media (max-width: 991.98px) {
@@ -1706,7 +1706,7 @@ h1, h2, h3, h4, h5,
   position: absolute;
   bottom: -10px;
   right: -10px;
-  background: #007bff;
+  background: #04B404;
   padding: 20px; }
   @media (max-width: 991.98px) {
     .experience {
@@ -1811,8 +1811,20 @@ h1, h2, h3, h4, h5,
   }
   .site-nav-wrap li:hover .sub-menu {
    display: block;
-    
- 
-}
+    }
+  
 
 }
+
+
+.p-2 {
+    color:#04B404;
+}
+
+
+
+/* header */
+
+.showlist {
+  border: none;
+  padding-left: 30px;}
