@@ -46,10 +46,10 @@
             <nav class="site-navigation position-relative text-right main-navbar dt" role="navigation">
 
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                <li><a href="" class="nav-link" style="font-size: 18px">Trang chủ</a> 
+                <li><a href="" class="nav-link" style="font-size: 18px">Trang chủ </a> 
                 
                 </li>
-                <li><a href="{{ route('gioithieu') }}" class="nav-link"style="font-size: 18px">Giới thiệu</a>
+                <li><a href="{{ route('gioithieu') }}" class="nav-link"style="font-size: 18px">Giới thiệu <i class="fa fa-angle-down" aria-hidden="true" style="font-size: 14px;padding-left:6px"></i></a>
                 <ul class="sub-menu ">
                     <li><a href=""style="font-size: 18px">Công ty Talent Wins</a></li>
                     <hr>
@@ -59,7 +59,7 @@
                     
                   </ul>
                 </li>
-                <li><a href="{{ route('tinTuc') }}" class="nav-link" style="font-size: 18px">Tin tức</a>
+                <li><a href="{{ route('tinTuc') }}" class="nav-link" style="font-size: 18px">Tin tức  <i class="fa fa-angle-down" aria-hidden="true" style="font-size: 14px;padding-left:6px"></i></a>
                   <ul class="sub-menu">
                     <li><a href=""style="font-size: 18px">Tin tức Công nghệ</a></li>
                     <hr>
@@ -68,7 +68,7 @@
                     
                   </ul>
                </li>
-                <li><a href="{{ route('dichvu') }}" class="nav-link" style="font-size: 18px">Dịch vụ</a>
+                <li><a href="{{ route('dichvu') }}" class="nav-link" style="font-size: 18px">Dịch vụ  <i class="fa fa-angle-down" aria-hidden="true" style="font-size: 14px;padding-left:6px"></i></a>
                 <ul class="sub-menu">
                     <li><a href="" style="font-size: 18px">Đào tạo trực tuyến</a></li>
                       <hr>
@@ -98,34 +98,34 @@
                     <a href="#" class="nav-link" style="font-size: 16px">Trang chủ</a>
                     </li>
                     <li class="nav-item active dropdown">
-                      <a href="" class="nav-link"style="font-size: 16px"  data-toggle="dropdown">Giới thiệu</a>
+                      <a href="" class="nav-link"style="font-size: 16px"  data-toggle="dropdown">Giới thiệu   <i class="fa fa-angle-down float-right" aria-hidden="true" style="font-size: 18px;padding-right:10px"></i></a>
                           <ul class=" dropdown-menu showlist">
-                              <li><a href=""style="font-size: 16px">Công ty Talent Wins</a></li>
+                              <li><a href=""style="font-size: 16px;color:black">Công ty Talent Wins</a></li>
                               <br>
-                              <li><a href="#"style="font-size: 16px">E-Learning</a></li>
+                              <li><a href="#"style="font-size: 16px;color:black">E-Learning</a></li>
                               <br>
-                              <li><a href="#"style="font-size: 16px">Ban cố vấn</a></li>
+                              <li><a href="#"style="font-size: 16px;color:black">Ban cố vấn</a></li>
                         
                         </ul>
                     </li>
 
                     <li class="nav-item active dropdown">
-                      <a href="{{ route('tinTuc') }}" class="nav-link"style="font-size: 16px"  data-toggle="dropdown">Tin tức</a>
+                      <a href="{{ route('tinTuc') }}" class="nav-link"style="font-size: 16px"  data-toggle="dropdown">Tin tức  <i class="fa fa-angle-down float-right" aria-hidden="true" style="font-size: 18px;padding-right:10px"></i></a>
                           <ul class=" dropdown-menu showlist">
-                              <li><a href="{{ route('tinTuc') }}"style="font-size: 16px">Tin tức Công nghệ</a></li>
+                              <li><a href="{{ route('tinTuc') }}"style="font-size: 16px;color:black">Tin tức Công nghệ</a></li>
                               <br>
-                              <li><a href="{{ route('tinTuc') }}"style="font-size: 16px">Doanh nghiệp</a></li>
+                              <li><a href="{{ route('tinTuc') }}"style="font-size: 16px;color:black">Doanh nghiệp</a></li>
                               
                         
                         </ul>
                     </li>
 
                     <li class="nav-item active dropdown">
-                      <a href="{{ route('dichvu') }}" class="nav-link"style="font-size: 16px"  data-toggle="dropdown">Dịch vụ</a>
+                      <a href="{{ route('dichvu') }}" class="nav-link"style="font-size: 16px"  data-toggle="dropdown">Dịch vụ  <i class="fa fa-angle-down float-right" aria-hidden="true" style="font-size: 18px;padding-right:10px"></i></a>
                           <ul class=" dropdown-menu showlist">
-                              <li><a href="{{ route('dichvu') }}"style="font-size: 16px">Đào tạo trực tuyến</a></li>
+                              <li><a href="{{ route('dichvu') }}"style="font-size: 16px;color:black">Đào tạo trực tuyến</a></li>
                               <br>
-                              <li><a href="{{ route('dichvu') }}"style="font-size: 16px">Kiểm tra trực tuyến</a></li>
+                              <li><a href="{{ route('dichvu') }}"style="font-size: 16px;color:black">Kiểm tra trực tuyến</a></li>
                               
                         
                         </ul>
