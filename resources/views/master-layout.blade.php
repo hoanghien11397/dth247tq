@@ -31,6 +31,7 @@
     <link rel="stylesheet" href="{{asset('css/lienhe.css')}}">
     <link rel="stylesheet" href="{{asset('css/tinTuc.css')}}">
     <link rel="stylesheet" href="{{asset('css/traiNghiem.css')}}">
+    <link rel="stylesheet" href="{{asset('css/gioithieu.css')}}">
   
 
 

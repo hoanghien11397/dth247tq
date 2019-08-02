@@ -32,3 +32,7 @@ Route::get('dichvu', function () {
 	return view('pages.dichvu');
 })->name('dichvu');
 
+Route::get('gioithieu', function () {
+	return view('pages.gioithieu');
+})->name('gioithieu');
+
