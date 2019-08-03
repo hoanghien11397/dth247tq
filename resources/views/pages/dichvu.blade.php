@@ -13,12 +13,12 @@
                 </div>
             </div>
             <div class="row mt-5">
-                    <div class="col-12 col-md-4">
+                    <div class="col-12 col-md-4" data-aos="fade-right">
                         <div class="thumbnail">
                             <img src="https://omt.vn/wp-content/uploads/2014/05/omt-logo-final1-409x230.jpg" alt="" style="width:80%;height: 80%">
                         </div>
                     </div>
-                    <div class="col-12 col-md-8">
+                    <div class="col-12 col-md-8" data-aos="fade-left" data-aos-delay="100">
                         <div>
                             <h6>
                                 <a href=""style="font-size: 22px">Kiểm tra trực tuyến</a>
@@ -37,12 +37,12 @@
 
                 <hr>
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-4" data-aos="fade-right">
                         <div class="thumbnail">
                             <img src="https://omt.vn/wp-content/uploads/2014/05/mo_hinh_trien_khai1-570x185.png" alt="" style="width:80%;height: 80%">
                         </div>
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-md-8" data-aos="fade-left">
                         <div>
                             <h6>
                                 <a href="" style="font-size: 22px">Xây dựng khóa học trực tuyến</a>
@@ -60,12 +60,12 @@
 
                 <hr>
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-4" data-aos="fade-right">
                         <div class="thumbnail">
                             <img src="https://omt.vn/wp-content/uploads/2014/05/omt-logo-final1-409x230.jpg" alt="" style="width:80%;height: 80%">
                         </div>
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-md-8" data-aos="fade-left">
                         <div>
                             <h6>
                                 <a href="" style="font-size: 22px">Giới thiệu dịch vụ xây dựng trung tâm đào tạo trực tuyến</a>

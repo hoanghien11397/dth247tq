@@ -397,7 +397,7 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="500">
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="600">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><img src="http://trinam.com.vn/images/trinam/giaiphap/ic7.png" alt=""></div>
               <div>
@@ -417,7 +417,7 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="500">
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="700">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><img src="http://trinam.com.vn/images/trinam/giaiphap/ic8.png" alt=""></div>
               <div>
@@ -438,7 +438,7 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="500">
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="800">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><img src="http://trinam.com.vn/images/trinam/giaiphap/ic6.png" alt=""></div>
               <div>
