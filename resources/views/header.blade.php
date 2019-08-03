@@ -12,7 +12,7 @@
       
     </div> -->
    
-    <div class="top-bar py-3 bg-light" id="home-section">
+    <div class="top-bar py-1 bg-light" id="home-section">
       <div class="container">
         <div class="row">
           <div class="col-6 text-left">
@@ -40,16 +40,16 @@
         <div class="row align-items-center">
           
           <div class="col-6  col-xl-2 d-none d-xl-block">
-            <h1 class="mb-0 site-logo"><a href="#" class="text-black h2 mb-0"><img src="{{ asset('images/logo1.jpg')}}" style="width: 80%; height: 80%" alt=""></a></h1>
+            <h1 class="mb-0 site-logo"><a href="#" class="text-black h2 mb-0"><img src="{{ asset('images/logo1.jpg')}}" style="width: 75%; height: 75%" alt=""></a></h1>
           </div>
           <div class="col-12 col-md-10 d-none d-xl-block">
             <nav class="site-navigation position-relative text-right main-navbar dt" role="navigation">
 
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                <li><a href="" class="nav-link" style="font-size: 18px">Trang chủ </a> 
+                <li><a href="" class="nav-link" style="font-size: 18px">  Trang chủ </a> 
                 
                 </li>
-                <li><a href="{{ route('gioithieu') }}" class="nav-link"style="font-size: 18px">Giới thiệu <i class="fa fa-angle-down" aria-hidden="true" style="font-size: 14px;padding-left:5px"></i></a>
+                <li><a href="{{ route('gioithieu') }}" class="nav-link"style="font-size: 18px"> Giới thiệu <i class="fa fa-angle-down" aria-hidden="true" style="font-size: 14px;padding-left:5px"></i></a>
                 <ul class="sub-menu ">
                     <li><a href=""style="font-size: 16px">Công ty Talent Wins</a></li>
                   

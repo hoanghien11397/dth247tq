@@ -12,10 +12,7 @@
 #traiNghiem .btn{
         font-size: 15px;
         border-radius: 30px;
-      
-        background-color: white;
-        border: 1px solid #46ddc2;
-        color: #46ddc2;
+        background-color: white;   
         padding: 7px 13px;
         font-weight: 500;
 }
@@ -24,8 +21,7 @@
 }
 #traiNghiem .btn:hover ,#traiNghiem .btn:focus{
     
-    background-color: #46ddc2;
-    border: 1px solid #46ddc2;
+   
     color: white;
 }
 
