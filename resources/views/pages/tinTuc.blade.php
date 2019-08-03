@@ -18,8 +18,8 @@
 
             <div class="row mt-5">
                 <!-- Single Blog Area -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-blog-area mb-100 wow fadeInUp" data-wow-delay="250ms">
+                <div class="col-12 col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="single-blog-area mb-100 wow fadeInUp" >
                         <img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/News/Avatar/hoithaokhoahoc.png" alt="" >
                         <!-- Blog Content -->
                         <div class="blog-content">
@@ -37,8 +37,8 @@
                 </div>
 
                 <!-- Single Blog Area -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-blog-area mb-100 wow fadeInUp" data-wow-delay="500ms">
+                <div class="col-12 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="single-blog-area mb-100 wow fadeInUp" >
                         <img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/News/Avatar/nguyenthiennhan1%20251221595.jpg" alt="">
                         <!-- Blog Content -->
                         <div class="blog-content">
@@ -56,8 +56,8 @@
                 </div>
 
                 <!-- Single Blog Area -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-blog-area mb-100 wow fadeInUp" data-wow-delay="750ms">
+                <div class="col-12 col-lg-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="single-blog-area mb-100 wow fadeInUp" >
                         <img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/News/Avatar/0903cacvichutri.jpg" alt="">
                         <!-- Blog Content -->
                         <div class="blog-content">
@@ -75,8 +75,8 @@
                 </div>
 
                 <!-- Single Blog Area -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-blog-area mb-100 wow fadeInUp" data-wow-delay="250ms">
+                <div class="col-12 col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="single-blog-area mb-100 wow fadeInUp" >
                         <img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.29/thu-tuong-2-nuoc-va-dai-dien-fpt-gti-tai-buoi-ky-ket.jpg" alt="">
                         <!-- Blog Content -->
                         <div class="blog-content">
@@ -94,8 +94,8 @@
                 </div>
 
                 <!-- Single Blog Area -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-blog-area mb-100 wow fadeInUp" data-wow-delay="500ms">
+                <div class="col-12 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="single-blog-area mb-100 wow fadeInUp">
                         <img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.27/photo-0-1482826614248.jpg" alt="">
                         <!-- Blog Content -->
                         <div class="blog-content">
@@ -113,8 +113,8 @@
                 </div>
 
                 <!-- Single Blog Area -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-blog-area mb-100 wow fadeInUp" data-wow-delay="750ms">
+                <div class="col-12 col-lg-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="single-blog-area mb-100 wow fadeInUp" >
                         <img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.29/thu-tuong-2-nuoc-va-dai-dien-fpt-gti-tai-buoi-ky-ket.jpg" alt="">
                         <!-- Blog Content -->
                         <div class="blog-content">
@@ -132,8 +132,8 @@
                 </div>
 
                 <!-- Single Blog Area -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-blog-area mb-100 wow fadeInUp" data-wow-delay="250ms">
+                <div class="col-12 col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="single-blog-area mb-100 wow fadeInUp" >
                         <img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.29/thu-tuong-2-nuoc-va-dai-dien-fpt-gti-tai-buoi-ky-ket.jpg" alt="">
                         <!-- Blog Content -->
                         <div class="blog-content">
@@ -151,8 +151,8 @@
                 </div>
 
                 <!-- Single Blog Area -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-blog-area mb-100 wow fadeInUp" data-wow-delay="500ms">
+                <div class="col-12 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="single-blog-area mb-100 wow fadeInUp" >
                         <img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.27/photo-0-1482826614248.jpg" alt="">
                         <!-- Blog Content -->
                         <div class="blog-content">
@@ -170,8 +170,8 @@
                 </div>
 
                 <!-- Single Blog Area -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-blog-area mb-100 wow fadeInUp" data-wow-delay="750ms">
+                <div class="col-12 col-lg-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="single-blog-area mb-100 wow fadeInUp">
                         <img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.29/thu-tuong-2-nuoc-va-dai-dien-fpt-gti-tai-buoi-ky-ket.jpg" alt="">
                         <!-- Blog Content -->
                         <div class="blog-content">
@@ -190,8 +190,8 @@
             </div>
 
             <div class="row">
-                <div class="col-12">
-                    <div class="load-more text-center mt-100 wow fadeInUp" data-wow-delay="900ms">
+                <div class="col-12" data-aos="fade-up" data-aos-delay="100">
+                    <div class="load-more text-center mt-100 wow fadeInUp" >
                         <a href="#" class="btn btn-primary">Load More</a>
                     </div>
                 </div>
