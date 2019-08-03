@@ -25,9 +25,9 @@
                     <a href="">
                         <div class="title-product">Phần mềm quản lý cấp phát văn bằng chứng chỉ </div>
                     </a>
-                    <div class="btn-product">
-                        <a href="" class="btn btn-success btn-sm">Dùng Thử</a>
-                        <a href="" class="btn btn-success btn-sm">Chi Tiết</a>
+                    <div class="btn-product text-center ">
+                        <a href="" class="btn btn-primary btn-sm mr-2 ">Dùng thử</a>
+                        <a href="" class="btn btn-primary btn-sm ">Chi tiết</a>
                     </div>
                 </div>
             </div>
@@ -40,9 +40,9 @@
                     <a href="">
                         <div class="title-product">Phần mềm quản lý cấp phát văn bằng chứng chỉ </div>
                     </a>
-                    <div class="btn-product">
-                        <a href="" class="btn btn-success btn-sm">Dùng Thử</a>
-                        <a href="" class="btn btn-success btn-sm">Chi Tiết</a>
+                    <div class="btn-product text-center">
+                        <a href="" class="btn btn-primary btn-sm mr-2">Dùng thử</a>
+                        <a href="" class="btn btn-primary btn-sm">Chi tiết</a>
                     </div>
                 </div>
             </div>
@@ -55,9 +55,9 @@
                     <a href="">
                         <div class="title-product">Phần mềm quản lý cấp phát văn bằng chứng chỉ </div>
                     </a>
-                    <div class="btn-product">
-                        <a href="" class="btn btn-success btn-sm">Dùng Thử</a>
-                        <a href="" class="btn btn-success btn-sm">Chi Tiết</a>
+                    <div class="btn-product text-center">
+                        <a href="" class="btn btn-primary btn-sm mr-2">Dùng thử</a>
+                        <a href="" class="btn btn-primary btn-sm">Chi tiết</a>
                     </div>
                 </div>
             </div>
@@ -70,9 +70,9 @@
                     <a href="">
                         <div class="title-product">Phần mềm quản lý cấp phát văn bằng chứng chỉ </div>
                     </a>
-                    <div class="btn-product">
-                        <a href="" class="btn btn-success btn-sm">Dùng Thử</a>
-                        <a href="" class="btn btn-success btn-sm">Chi Tiết</a>
+                    <div class="btn-product text-center">
+                        <a href="" class="btn btn-primary btn-sm mr-2">Dùng thử</a>
+                        <a href="" class="btn btn-primary btn-sm">Chi tiết</a>
                     </div>
                 </div>
             </div>
@@ -85,9 +85,9 @@
                     <a href="">
                         <div class="title-product">Phần mềm quản lý cấp phát văn bằng chứng chỉ </div>
                     </a>
-                    <div class="btn-product">
-                        <a href="" class="btn btn-success btn-sm">Dùng Thử</a>
-                        <a href="" class="btn btn-success btn-sm">Chi Tiết</a>
+                    <div class="btn-product text-center">
+                        <a href="" class="btn btn-primary btn-sm mr-2">Dùng thử</a>
+                        <a href="" class="btn btn-primary btn-sm">Chi tiết</a>
                     </div>
                 </div>
             </div>
@@ -100,9 +100,9 @@
                     <a href="">
                         <div class="title-product">Phần mềm quản lý cấp phát văn bằng chứng chỉ </div>
                     </a>
-                    <div class="btn-product">
-                        <a href="" class="btn btn-success">Dùng Thử</a>
-                        <a href="" class="btn btn-success">Chi Tiết</a>
+                    <div class="btn-product text-center">
+                        <a href="" class="btn btn-primary mr-2">Dùng thử</a>
+                        <a href="" class="btn btn-primary">Chi tiết</a>
                     </div>
                 </div>
             </div>
@@ -115,9 +115,9 @@
                     <a href="">
                         <div class="title-product">Phần mềm quản lý cấp phát văn bằng chứng chỉ </div>
                     </a>
-                    <div class="btn-product">
-                        <a href="" class="btn btn-success">Dùng Thử</a>
-                        <a href="" class="btn btn-success">Chi Tiết</a>
+                    <div class="btn-product text-center">
+                        <a href="" class="btn btn-primary mr-2">Dùng thử</a>
+                        <a href="" class="btn btn-primary">Chi tiết</a>
                     </div>
                 </div>
             </div>
@@ -130,9 +130,9 @@
                     <a href="">
                         <div class="title-product">Phần mềm quản lý cấp phát văn bằng chứng chỉ </div>
                     </a>
-                    <div class="btn-product">
-                        <a href="" class="btn btn-success">Dùng Thử</a>
-                        <a href="" class="btn btn-success">Chi Tiết</a>
+                    <div class="btn-product text-center">
+                        <a href="" class="btn btn-primary mr-2">Dùng thử</a>
+                        <a href="" class="btn btn-primary">Chi tiết</a>
                     </div>
                 </div>
             </div>
@@ -145,9 +145,9 @@
                     <a href="">
                         <div class="title-product">Phần mềm quản lý cấp phát văn bằng chứng chỉ </div>
                     </a>
-                    <div class="btn-product">
-                        <a href="" class="btn btn-success">Dùng Thử</a>
-                        <a href="" class="btn btn-success">Chi Tiết</a>
+                    <div class="btn-product text-center">
+                        <a href="" class="btn btn-primary mr-2">Dùng thử</a>
+                        <a href="" class="btn btn-primary">Chi tiết</a>
                     </div>
                 </div>
             </div>
