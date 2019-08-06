@@ -33,13 +33,13 @@
         </div>
       </div>
       <div class="col-md-3">
-        <h2 class="footer-heading mb-4">Dịch Vụ</h2>
+        <h2 class="footer-heading mb-4">Sản Phẩm Dịch Vụ của Talent Wins</h2>
         <ul class="list-unstyled" style="font-size: 14px">
-          <li><a href="#"> >> Dịch vụ quản trị website</a></li>
-          <li><a href="#"> >> Dịch vụ SEO từ khóa website giá rẻ</a></li>
-          <li><a href="#"> >> Quảng cáo Google Adwords</a></li>
-          <li><a href="#"> >> Thiết kế web du lịch chuyên nghiệp</a></li>
-          <li><a href="#"> >> Thiết kế web tin tức, báo chí online</a></li>
+          <li><a href="#"> >> Phần mềm ERP</a></li>
+          <li><a href="#"> >> Website Tuyển Dụng Việc Làm IT DevJob</a></li>
+          <li><a href="#"> >> Dịch vụ Thiết kế website Web88.vn</a></li>
+          <li><a href="#"> >> Website tuyển dung việc làm Topcarreer.co/TotalJobs.vn/Timviecngay.vn</a></li>
+          <li><a href="#"> >> Website việc làm và khởi nghiệp cho Sinh Viên Ytalent.vn</a></li>
         </ul>
 
       </div>

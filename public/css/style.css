@@ -131,7 +131,7 @@ h1, h2, h3, h4, h5,
   .site-footer a {
     color: black; }
     .site-footer a:hover {
-      color: white; }
+      color: #088A08; }
   .site-footer ul li {
     margin-bottom: 10px; }
   .site-footer .footer-heading {
@@ -1848,15 +1848,19 @@ h1, h2, h3, h4, h5,
     padding-top: 20px;
 }
 
-.ok{
-  background-color: #FAFAFA ;
 
+
+
+.owl-prev:hover {
+  background-color: #FFD700 !important;
 }
 
+.owl-next:hover {
+  background-color: #FFD700 !important;
+}
 
-
-
-
-
+.font-weight-bold{
+  font-weight: 500 !important;
+}
 /* slide */
 
