@@ -1811,8 +1811,13 @@ h1, h2, h3, h4, h5,
     display: none;
   
   }
+ 
   .site-nav-wrap li:hover .sub-menu {
    display: block;
+    }
+
+    .text-ct {
+      margin-bottom: 0;
     }
   
 
