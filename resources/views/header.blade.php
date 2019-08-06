@@ -87,7 +87,7 @@
           <div class=" d-block d-xl-none">
           
           <nav class="navbar navbar-expand-md  navbar-light mobile">
-              <img src="{{ asset('images/logo1.jpg')}}" style="width: 50%; height: 50%" alt="">
+              <img src="{{ asset('images/logo1.jpg')}}" style="width: 30%; height: 30%" alt="">
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#demo" style="border:none" >
                   <span class="navbar-toggler-icon"></span>

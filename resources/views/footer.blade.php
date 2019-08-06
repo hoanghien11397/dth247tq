@@ -44,9 +44,10 @@
 
       </div>
     </div>
-    <div class="row pt-3  text-center">
+    <hr>
+    <div class="row  text-center">
       <div class="col-md-12">
-        <div class="border-top pt-3">
+        <div class="border-top pt-2">
           <p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             Copyright &copy;<script>

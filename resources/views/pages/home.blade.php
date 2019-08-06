@@ -745,10 +745,10 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
 
     <section class="site-section ok" id="contact-section">
       <div class="container">
-        <div class="row mb-5"  data-aos="fade-up" data-aos-delay="300">
+        <div class="row mb-2"  data-aos="fade-up" data-aos-delay="300">
           <div class="col-12 text-center">
             <h3 class="section-sub-title"></h3>
-            <h2 class="section-title mb-3" style="font-size: 30px">LIÊN HỆ</h2>
+            <h2 class="section-title mt-0" style="font-size: 30px">LIÊN HỆ</h2>
           </div>
         </div>
         <div class="row ">
@@ -757,29 +757,29 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
             
 
             <form action="#" style="padding:20px">
-              
-              <div class="form-group mb-0">
-                <label for="email" class="font-weight-bold">Tên Công ty</label>
+            <h6 class=" text-center mt-4" >Anh Chị vui lòng để lại thông tin liên hệ để được eWins tư vấn, hỗ trợ!</h6>
+              <div class="form-group mb-0 mt-4">
+                <label for="email" class="font-weight-bold text-ct">Tên Công ty</label>
                 <input type="email" class="form-control" id="email" placeholder="Nhập tên Công ty..." name="email">
               </div>
               <div class="form-group mb-0">
-                <label for="email" class="font-weight-bold">Họ tên</label>
+                <label for="email" class="font-weight-bold text-ct">Họ tên</label>
                 <input type="email" class="form-control" id="email" placeholder="Nhập họ và tên..." name="email">
               </div>
               <div class="form-group mb-0">
-                <label for="email" class="font-weight-bold">Địa chỉ Công ty</label>
+                <label for="email" class="font-weight-bold text-ct">Địa chỉ Công ty</label>
                 <input type="email" class="form-control" id="email" placeholder="Nhập địa chỉ Công ty..." name="email">
               </div>
               <div class="form-group mb-0">
-                <label for="email" class="font-weight-bold">Số điện thoại</label>
+                <label for="email" class="font-weight-bold text-ct">Số điện thoại</label>
                 <input type="email" class="form-control d-right" id="email" placeholder="Nhập số điện thoại" name="email">
               </div>
               <div class="form-group mb-0">
-                <label for="email" class="font-weight-bold">Email</label>
+                <label for="email" class="font-weight-bold text-ct">Email</label>
                 <input type="email" class="form-control d-right" id="email" placeholder="Nhập địa chỉ email..." name="email">
               </div>
               <div class="form-group">
-                <label for="comment" class="font-weight-bold">Nội dung</label>
+                <label for="comment" class="font-weight-bold text-ct">Nội dung</label>
                 <textarea class="form-control" rows="4" id="comment" placeholder="Nhập nội dung" name="text"></textarea>
               </div>
               <div class="form-group form-check">
@@ -796,7 +796,7 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
           <div class="col-md-5" style="">
             
             <div class="p-4 mb-3 " style="padding:30px">
-            <p class="mb-4 font-weight-bold">Công ty Công nghệ và Dịch vụ Talent Wins</p>
+            <p class="mb-4 font-weight-bold mt-4">Công ty Công nghệ và Dịch vụ Talent Wins</p>
               <p class="mb-0 font-weight-bold"> <i class="fas fa-map-marker-alt fa-fw" ></i> Địa chỉ</p>
               <p class="mb-4" style="color:#04B404">Tòa CT2, khu đô thị Thái Hà Constrexim, 43 Phạm Văn Đồng, Hà Nội</p>
 
