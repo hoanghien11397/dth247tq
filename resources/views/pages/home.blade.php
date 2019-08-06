@@ -41,7 +41,7 @@
             <h2 class="section-title mb-3">Welcome To Elearning</h2>
             <p class="mb-4">E-learning là chữ viết tắt của Electronic Learning, dịch ra tiếng Việt có nghĩa là học trực tuyến hay giáo dục trực tuyến.
 E-learning là phương thức học tập thông qua một thiết bị có kế nối mạng với một máy chủ ở nơi khác có lưu trữ sẵn các nội dung học tập dạng số và phần mềm cần thiết để có thể tương tác (hỏi/ yêu cầu/ ra đề) với học viên học trực tuyến từ xa. Giáo viên có thể truyền tải hình ảnh, âm thanh hoặc tài liệu tương tác qua đường truyền băng thông rộng hoặc kết nối không dây (WiFi, WiMAX), mạng nội bộ (LAN).</p>
-            <p><a href="#" class="btn btn-primary ">Learn More</a></p>
+            <p><a href="#" class="btn btn-primary "  style="font-size: 18px">Đọc tiếp</a></p>
           </div>
         </div>
       </div>
@@ -752,57 +752,51 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
           </div>
         </div>
         <div class="row ">
-          <div class="col-md-7 mb-5 ">
+          <div class="col-md-7 mb-5 "style="background-color: #F0FFF0; border-radius: 50px">
 
             
 
-            <form action="#" class="p-4 ">
+            <form action="#" style="padding:20px">
               
-              <h2 class="h4 text-black mb-2">Liên hệ</h2> 
-
-              <div class="row form-group">
-                <div class="col-md-12 mb-2 mb-md-0">
-                  <label class="text-black" for="fname">Họ Tên</label>
-                  <input type="text" id="fname" class="form-control">
-                </div>
-                
+              <div class="form-group mb-0">
+                <label for="email" class="font-weight-bold">Tên Công ty</label>
+                <input type="email" class="form-control" id="email" placeholder="Nhập tên Công ty..." name="email">
               </div>
-
-              <div class="row form-group">
-                
-                <div class="col-md-12">
-                  <label class="text-black" for="email">Email</label> 
-                  <input type="email" id="email" class="form-control">
-                </div>
+              <div class="form-group mb-0">
+                <label for="email" class="font-weight-bold">Họ tên</label>
+                <input type="email" class="form-control" id="email" placeholder="Nhập họ và tên..." name="email">
               </div>
-
-              <div class="row form-group">
-                
-                <div class="col-md-12">
-                  <label class="text-black" for="subject">Chủ đề</label> 
-                  <input type="subject" id="subject" class="form-control">
-                </div>
+              <div class="form-group mb-0">
+                <label for="email" class="font-weight-bold">Địa chỉ Công ty</label>
+                <input type="email" class="form-control" id="email" placeholder="Nhập địa chỉ Công ty..." name="email">
               </div>
-
-              <div class="row form-group">
-                <div class="col-md-12">
-                  <label class="text-black" for="message">Nội dung</label> 
-                  <textarea name="message" id="message" cols="30" rows="5" class="form-control" placeholder="Nhập nội dung tại đây..."></textarea>
-                </div>
+              <div class="form-group mb-0">
+                <label for="email" class="font-weight-bold">Số điện thoại</label>
+                <input type="email" class="form-control d-right" id="email" placeholder="Nhập số điện thoại" name="email">
               </div>
-
-              <div class="row form-group">
-                <div class="col-md-12">
-                  <input type="submit" value="Gửi" class="btn btn-primary btn-md ">
-                </div>
+              <div class="form-group mb-0">
+                <label for="email" class="font-weight-bold">Email</label>
+                <input type="email" class="form-control d-right" id="email" placeholder="Nhập địa chỉ email..." name="email">
               </div>
+              <div class="form-group">
+                <label for="comment" class="font-weight-bold">Nội dung</label>
+                <textarea class="form-control" rows="4" id="comment" placeholder="Nhập nội dung" name="text"></textarea>
+              </div>
+              <div class="form-group form-check">
+                <label class="form-check-label">
+                  <input class="form-check-input" type="checkbox" name="remember"> Ghi nhớ
+                </label>
+              </div>
+              <button type="submit" class="btn btn-primary mb-3">Gửi</button>
+          
 
   
             </form>
           </div>
-          <div class="col-md-5">
+          <div class="col-md-5" style="">
             
-            <div class="p-4 mb-3 ">
+            <div class="p-4 mb-3 " style="padding:30px">
+            <p class="mb-4 font-weight-bold">Công ty Công nghệ và Dịch vụ Talent Wins</p>
               <p class="mb-0 font-weight-bold"> <i class="fas fa-map-marker-alt fa-fw" ></i> Địa chỉ</p>
               <p class="mb-4" style="color:#04B404">Tòa CT2, khu đô thị Thái Hà Constrexim, 43 Phạm Văn Đồng, Hà Nội</p>
 

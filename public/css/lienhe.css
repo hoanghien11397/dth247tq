@@ -35,3 +35,10 @@
   text-transform: uppercase;
   margin-bottom: 0.5rem;
 }
+
+.form-control {
+  height: 35px;
+  font-size: 14px;
+  border-radius: 30px;
+  
+}

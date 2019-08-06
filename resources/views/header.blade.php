@@ -26,7 +26,7 @@
           <div class="col-6">
             <p class="mb-0 float-right">
               <span class="mr-3 "><a href="tel://#" class="p-2"> <span class="icon-phone mr-2"></span><span class="d-none d-lg-inline-block">+0927 15 15 35</span></a></span>
-              <span class=""><a href="#" class="p-2"><span class="icon-envelope mr-2"></span><span class="d-none d-lg-inline-block">hrtechday@talentwins.co</span></a></span>
+              <span class=""><a href="#" class="p-2"><span class="icon-envelope mr-2"></span><span class="d-none d-lg-inline-block">contact@talentwins.co</span></a></span>
             </p>
             
           </div>
