@@ -806,7 +806,7 @@ E-learning là phương thức học tập thông qua một thiết bị có k�
               <p class="mb-4"><a href="#" style="color:#04B404">0927 15 15 35 (Mr. Hải)</a></p>
 
               <p class="mb-0 font-weight-bold icon-envelope"> Email</p>
-              <p class="mb-0"><a href="#" style="color:#04B404">hrtechday@talentwins.co</a></p>
+              <p class="mb-0"><a href="#" style="color:#04B404">contact@talentwins.co</a></p>
 
             </div>
             
