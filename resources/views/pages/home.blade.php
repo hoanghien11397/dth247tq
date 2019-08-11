@@ -4,7 +4,7 @@
 
 @section('content')
    
-    <div class="site-blocks-cover overlay" style="background-image: url(images/hero_2.jpg);" data-aos="fade">
+   <!--  <div class="site-blocks-cover overlay" style="background-image: url(images/panner-1.png); " data-aos="fade">
       <div class="container">
         <div class="row align-items-center justify-content-center">
 
@@ -12,8 +12,8 @@
                         
             <div class="row mb-4">
               <div class="col-md-6">
-                <h1>E-Learning Talent Wins</h1>
-                <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam assumenda ea quo cupiditate facere deleniti fuga officia.</p>
+                <h1 style="color: #088A08 ">E-Learning Talent Wins</h1>
+                <p class="mb-5" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam assumenda ea quo cupiditate facere deleniti fuga officia.</p>
                 <div>
                   <a href="#" class="btn btn-primary mr-2 mb-2">Get Started</a>
                 </div>
@@ -23,7 +23,74 @@
           </div>
         </div>
       </div>
-    </div>  
+    </div>   -->
+
+
+    <div class="slide-one-item home-slider owl-carousel" data-aos="fade-up" data-aos-delay="200">
+         <div class="site-blocks-cover overlay" style="background-image: url(images/panner-1.png); " data-aos="fade">
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+
+          <div class="col-md-12" data-aos="fade-up" data-aos-delay="400">
+                        
+            <div class="row mb-4">
+              <div class="col-md-6">
+                <h1 style="color: #088A08 ">E-Learning Talent Wins</h1>
+                <p class="mb-5" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam assumenda ea quo cupiditate facere deleniti fuga officia.</p>
+                <div>
+                  <a href="#" class="btn btn-primary mr-2 mb-2">Get Started</a>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div> 
+    <div class="site-blocks-cover overlay" style="background-image: url(images/panner-2.png); " data-aos="fade">
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+
+          <div class="col-md-12" data-aos="fade-up" data-aos-delay="400">
+                        
+            <div class="row mb-4">
+              <div class="col-md-6">
+                <h1>E-Learning Talent Wins</h1>
+                <p class="mb-5" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam assumenda ea quo cupiditate facere deleniti fuga officia.</p>
+                <div>
+                  <a href="#" class="btn btn-primary mr-2 mb-2">Get Started</a>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div> 
+    <div class="site-blocks-cover overlay" style="background-image: url(images/panner-3.png); " data-aos="fade">
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+
+          <div class="col-md-12" data-aos="fade-up" data-aos-delay="400">
+                        
+            <div class="row mb-4">
+              <div class="col-md-6">
+                <h1>E-Learning Talent Wins</h1>
+                <p class="mb-5" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam assumenda ea quo cupiditate facere deleniti fuga officia.</p>
+                <div>
+                  <a href="#" class="btn btn-primary mr-2 mb-2">Get Started</a>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div> 
+             
+
+             
+    </div>
 
 
     <div class="site-section" id="about-section">
