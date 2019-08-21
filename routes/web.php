@@ -36,3 +36,7 @@ Route::get('gioithieu', function () {
 	return view('pages.gioithieu');
 })->name('gioithieu');
 
+Route::get('/admin', function () {
+    return view('admins.dashboard');
+});
+
