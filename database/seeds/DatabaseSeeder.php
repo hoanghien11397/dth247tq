@@ -57,6 +57,16 @@ class DatabaseSeeder extends Seeder
                 'status' =>1,
             ],
     
-            );
+        );
+        DB::table('infor_company')->insert(
+            [
+                'id'=> 1,
+                'name' => 'Công ty Công nghệ và Dịch vụ Talent Wins',
+                'masothue' => '0108134425',
+                'phone' => '0927151535',
+                'email' => 'contact@talentwins.co',
+            ]
+    
+        );
     }
 }

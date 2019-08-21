@@ -32,6 +32,7 @@ class CreateNewTable extends Migration
         Schema::create('banner', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('image');
+            $table->integer('status');
             $table->bigInteger('cate_new')->unsigned();
             $table->foreign('cate_new')
                   ->references('id')
