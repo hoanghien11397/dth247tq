@@ -21,7 +21,7 @@ class CreateContactTable extends Migration
             $table->string('name_city')->nullable();
             $table->string('address_city')->nullable();
             $table->string('content');
-            $table->integer('status');
+            $table->tinyInteger('status');
             $table->timestamps();
         });
     }

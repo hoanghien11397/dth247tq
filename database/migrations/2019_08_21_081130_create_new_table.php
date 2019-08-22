@@ -21,7 +21,7 @@ class CreateNewTable extends Migration
             $table->text('content');
             $table->string('image');
             $table->string('slug');
-            $table->integer('status');
+            $table->tinyInteger('status')->default(0);
             $table->bigInteger('id_admin')->unsigned();
             $table->foreign('id_admin')
                   ->references('id')
@@ -32,7 +32,7 @@ class CreateNewTable extends Migration
         Schema::create('banner', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('image');
-            $table->integer('status');
+            $table->tinyInteger('status')->default(0);
             $table->bigInteger('cate_new')->unsigned();
             $table->foreign('cate_new')
                   ->references('id')

@@ -18,7 +18,7 @@ class CreateIntroduceTable extends Migration
             $table->string('name');
             $table->text('content');
             $table->string('slug');
-            $table->integer('status');
+            $table->tinyInteger('status')->default(1);
             $table->timestamps();
         });
     }
