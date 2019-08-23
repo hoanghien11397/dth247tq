@@ -14,6 +14,9 @@
 Route::get('/', function () {
     return view('pages.home');
 });
+Route::get('home', function () {
+    return view('pages.home');
+})->name('home');
 
 
 Route::get('lienhe', function () {
@@ -36,6 +39,18 @@ Route::get('gioithieu', function () {
 	return view('pages.gioithieu');
 })->name('gioithieu');
 
+
+Route::get('talentwins', function () {
+    return view('pages.talentwins');
+})->name('talentwins');
+
+Route::get('tintucchitiet', function () {
+	return view('pages.tintucchitiet');
+})->name('tintucchitiet');
+Route::get('talentchitiet', function () {
+	return view('pages.talentchitiet');
+})->name('talentchitiet');
+
 Route::group(['prefix' => 'admin'], function() {
 	Route::get('/','HomeController@index');
 
@@ -48,5 +63,6 @@ Route::group(['prefix' => 'admin'], function() {
 		Route::get('delete/{id}','NewController@delete')->name('new.delete');
 	});
 });
+
 
 

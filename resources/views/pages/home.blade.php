@@ -27,7 +27,7 @@
 
 
     <div class="slide-one-item home-slider owl-carousel" data-aos="fade-up" data-aos-delay="200">
-         <div class="site-blocks-cover overlay" style="background-image: url(images/panner-1.png); " data-aos="fade">
+         <div class="site-blocks-cover overlay" style="background-image: url(images/panner-1.png)" data-aos="fade">
       <div class="container">
         <div class="row align-items-center justify-content-center">
 
@@ -47,7 +47,7 @@
         </div>
       </div>
     </div> 
-    <div class="site-blocks-cover overlay" style="background-image: url(images/panner-2.png); " data-aos="fade">
+    <div class="site-blocks-cover overlay" style="background-image: url(images/panner-2.png); width:100%" data-aos="fade">
       <div class="container">
         <div class="row align-items-center justify-content-center">
 

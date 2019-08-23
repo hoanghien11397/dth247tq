@@ -122,7 +122,9 @@ jQuery(document).ready(function($) {
 	};
 	// siteSliderRange();
 
-
+	$(".codongs-tt-title").click(function(){
+		$(".codongs-tt").toggle(400);
+	});
 	
 	var siteCarousel = function () {
 		if ( $('.nonloop-block-13').length > 0 ) {

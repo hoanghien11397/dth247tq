@@ -25,7 +25,7 @@
           </div>
           <div class="col-6 tel-dt  d-none d-xl-block">
             <p class="mb-0 float-right">
-              <span class="mr-3 "><a href="tel://#" class="p-2"> <span class="icon-phone mr-2"></span><span class="d-none d-lg-inline-block">+0927 15 15 35</span></a></span>
+              <span class="mr-3 "><a href="tel://#" class="p-2"> <span class="icon-phone mr-2"></span><span class="d-none d-lg-inline-block">0927 15 15 35</span></a></span>
               <span class=""><a href="#" class="p-2"><span class="icon-envelope mr-2"></span><span class="d-none d-lg-inline-block">contact@talentwins.co</span></a></span>
             </p>
             
@@ -33,7 +33,7 @@
 <!-- mobile -->
           <div class="col-6 tel-mobile  d-block d-xl-none">
             <p class="mb-0 float-right">
-              <span class="mr-3 " style="color:#088A08; font-size:14px"><a>+0927 15 15 35</a></span>
+              <span class="icon-phone mr-3 " style="color:#088A08; font-size:14px"><a> 0927 15 15 35</a></span>
             </p>
             
           </div>
@@ -47,7 +47,7 @@
         <div class="row align-items-center">
           
           <div class="col-6  col-xl-2 d-none d-xl-block">
-            <h1 class="mb-0 site-logo"><a href="#" class="text-black h2 mb-0"><img src="{{ asset('images/logo1.jpg')}}" style="width: 75%; height: 75%" alt=""></a></h1>
+            <h1 class="mb-0 site-logo"><a href="{{ route('home') }}" class="text-black h2 mb-0"><img src="{{ asset('images/logo1.jpg')}}" style="width: 75%; height: 75%" alt=""></a></h1>
           </div>
           <div class="col-12 col-md-10 d-none d-xl-block">
             <nav class="site-navigation position-relative text-right main-navbar dt" role="navigation">
@@ -68,9 +68,10 @@
                 </li>
                 <li><a href="{{ route('tinTuc') }}" class="nav-link" style="font-size: 18px">Tin tức  <i class="fa fa-angle-down" aria-hidden="true" style="font-size: 14px;padding-left:5px"></i></a>
                   <ul class="sub-menu">
-                    <li><a href=""style="font-size: 16px">Tin tức Công nghệ</a></li>
+                    <li><a href="#home"style="font-size: 16px">Tin tức về nhân sự</a></li>
                    
-                    <li><a href="#"style="font-size: 16px">Tin tức Doanh nghiệp</a></li>
+                    <li><a href="#menu1"style="font-size: 16px">Tin tức về đào tạo phát triển</a></li>
+                    <li><a href="#menu2"style="font-size: 16px">Tin tức quản trị doanh nghiệp</a></li>
                
                     
                   </ul>
@@ -83,10 +84,24 @@
                     
                   </ul>
               </li>
-                <li><a href="{{ route('traiNghiem') }}" class="nav-link" style="font-size: 18px">Trải nghiệm</a></li>
+                <li><a href="{{ route('traiNghiem') }}" class="nav-link" style="font-size: 18px">Demo sản phẩm</a></li>
+                <li><a href="{{ route('talentwins') }}" class="nav-link" style="font-size: 18px">Talent Wins <i class="fa fa-angle-down" aria-hidden="true" style="font-size: 14px;padding-left:5px"></i></a>
+                  <ul class="sub-menu">
+                      <li><a href="" style="font-size: 16px">Talent Wins Technology</a></li>
+                    
+                      <li><a href="#"style="font-size: 16px">Talent Wins Solution</a></li>
+
+                      <li><a href="#"style="font-size: 16px">Talent Wins Academy</a></li>
+                      
+                      
+                    </ul>
+              </li>
          
                 <li><a href="{{ route('lienhe') }}" class="nav-link" style="font-size: 18px">Liên hệ</a></li>
-              
+                <i class="fas fa-search pl-3 search1" style="font-size:22px" onclick=" myFunction2()"></i>
+                <div class=" float-right" id="search">
+                <input type="text" class="form-control form-control-sm " placeholder="Tìm kiếm....">
+                </div>
               </ul>
             </nav>
           </div>
@@ -119,9 +134,11 @@
                     <li class="nav-item active dropdown">
                       <a href="{{ route('tinTuc') }}" class="nav-link"style="font-size: 16px"  data-toggle="dropdown">Tin tức  <i class="fa fa-angle-down float-right" aria-hidden="true" style="font-size: 18px;padding-right:10px"></i></a>
                           <ul class=" dropdown-menu showlist">
-                              <li><a href="{{ route('tinTuc') }}"style="font-size: 16px;color:black">Tin tức Công nghệ</a></li>
+                              <li><a href="{{ route('tinTuc') }}"style="font-size: 16px;color:black">Tin tức về nhân sự</a></li>
                               <br>
-                              <li><a href="{{ route('tinTuc') }}"style="font-size: 16px;color:black">Doanh nghiệp</a></li>
+                              <li><a href="{{ route('tinTuc') }}"style="font-size: 16px;color:black">Tin tức về đào tạo phát triển</a></li>
+                              <br>
+                              <li><a href="{{ route('tinTuc') }}"style="font-size: 16px;color:black">Tin tức quản trị doanh nghiệp</a></li>
                               
                         
                         </ul>
@@ -139,7 +156,19 @@
                     </li>
                       
                     <li class="nav-item active dropdown">
-                    <a href="{{ route('traiNghiem') }}" class="nav-link" style="font-size: 16px">Trải nghiệm</a>
+                    <a href="{{ route('traiNghiem') }}" class="nav-link" style="font-size: 16px">Demo sản phẩm</a>
+                    </li>
+
+                    <li class="nav-item active dropdown">
+                      <a href="{{ route('talentwins') }}" class="nav-link"style="font-size: 16px"  data-toggle="dropdown">Dịch vụ  <i class="fa fa-angle-down float-right" aria-hidden="true" style="font-size: 18px;padding-right:10px"></i></a>
+                          <ul class=" dropdown-menu showlist">
+                              <li><a href=""style="font-size: 16px;color:black">Talent Wins Technology</a></li>
+                              <br>
+                              <li><a href=""style="font-size: 16px;color:black">Talent Wins Solution</a></li>
+                              <br>
+                              <li><a href=""style="font-size: 16px;color:black">Talent Wins Academy</a></li> 
+                        
+                        </ul>
                     </li>
 
                     <li class="nav-item active dropdown">

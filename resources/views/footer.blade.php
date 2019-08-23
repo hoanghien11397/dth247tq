@@ -8,7 +8,7 @@
             <p style="font-size: 14px"><i class="fas fa-user-alt"></i> Công ty Công nghệ và Dịch vụ Talent Wins</p>
             <p style="font-size: 14px"><i class="far fa-address-book"></i> Mã số thuế: 0108134425</p>
             <p style="font-size: 14px" ><i class="far fa-address-book"></i> 0927 15 15 35</p>
-            <p style="font-size: 14px" ><i class="fas fa-user-alt"></i> contact@talentwins.co</p>
+            <p style="font-size: 14px" ><i class="fas fa-envelope fa-fw"></i> contact@talentwins.co</p>
           </div>
           <div class="col-md-4 ml-auto" style="margin-left:0 !important">
             <h2 class="footer-heading mb-4">Dịch Vụ</h2>

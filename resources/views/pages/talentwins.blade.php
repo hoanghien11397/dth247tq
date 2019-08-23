@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="tt-1">
-                    TIN TỨC
+                    TALEN TWINS
                 </div>
                 <div class="sp-1"></div>
             </div>
@@ -17,17 +17,17 @@
         
         <div class="mt-5">
         <div class="codongs-tt-title" onclick="myFunction()" >
-                <div  style="padding:10px; color: white">Tin tức <i class="fa fa-angle-down pl-4" aria-hidden="true" style="font-size: 14px"></i></div>
+                <div  style="padding:10px; color: white">Talent wins <i class="fa fa-angle-down" aria-hidden="true" style="font-size: 14px"></i></div>
             </div>
             <ul class="nav nav-tabs codongs-tt">
                 <li class="nav-item">
-                    <a class="nav-link active" data-toggle="tab" href="#home" style="font-size: 18px">Tin tức về nhân sự</a>
+                    <a class="nav-link active" data-toggle="tab" href="#home" style="font-size: 18px">Talent Wins Technology</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#menu1" style="font-size: 18px">Tin tức về đào tạo phát triển</a>
+                    <a class="nav-link" data-toggle="tab" href="#menu1" style="font-size: 18px">Talent Wins Solution</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#menu2" style="font-size: 18px">Tin tức quản trị doanh nghiệp</a>
+                    <a class="nav-link" data-toggle="tab" href="#menu2" style="font-size: 18px">Talent Wins Academy</a>
                 </li>
             </ul>
 
@@ -39,7 +39,7 @@
                             <div class="col-md-4 p-3"><img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.29/thu-tuong-2-nuoc-va-dai-dien-fpt-gti-tai-buoi-ky-ket.jpg" alt=""></div>
                         
                             <div class="blog-content col-md-8">
-                                <a href="{{ route('tintucchitiet') }}" class="blog-headline">
+                                <a href="{{ route('talentchitiet') }}" class="blog-headline">
                                     <h5>Bài học kinh doanh sâu sắc rút ra từ cuốn sách được cả Bill Gates và Warren Buffett khen là 'tuyệt vời nhất'</h5>
                                 </a>
                                 <div class="meta d-flex align-items-center">
@@ -151,24 +151,7 @@
 
         
 
-                <!-- Single Blog Area -->
-                <!-- <div class="col-12 col-lg-4" data-aos="fade-up" data-aos-delay="300">
-                    <div class="single-blog-area mb-100 wow fadeInUp">
-                        <img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.29/thu-tuong-2-nuoc-va-dai-dien-fpt-gti-tai-buoi-ky-ket.jpg" alt="">
-                      
-                        <div class="blog-content">
-                            <a href="#" class="blog-headline">
-                                <h5>Bài học kinh doanh sâu sắc rút ra từ cuốn sách được cả Bill Gates và Warren Buffett khen là 'tuyệt vời nhất'</h5>
-                            </a>
-                            <div class="meta d-flex align-items-center">
-                                <a href="#">09/18/2019</a>
-                                <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                <a href="#">Art &amp; Design</a>
-                            </div>
-                            <p> E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp...</p>
-                        </div>
-                    </div>
-                </div> -->
+               
     </div>
 
         
