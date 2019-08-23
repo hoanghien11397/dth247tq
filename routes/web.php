@@ -36,3 +36,17 @@ Route::get('gioithieu', function () {
 	return view('pages.gioithieu');
 })->name('gioithieu');
 
+Route::group(['prefix' => 'admin'], function() {
+	Route::get('/','HomeController@index');
+
+	Route::prefix('new')->group(function () {
+		Route::get('list','NewController@list')->name('new.list');
+		Route::get('add','NewController@add')->name('new.add');
+		Route::post('add','NewController@store')->name('new.add');
+		Route::get('edit/{id}','NewController@edit')->name('new.edit');
+		Route::post('edit/{id}','NewController@update')->name('new.edit');
+		Route::get('delete/{id}','NewController@delete')->name('new.delete');
+	});
+});
+
+
