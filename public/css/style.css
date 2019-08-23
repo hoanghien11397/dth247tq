@@ -564,11 +564,11 @@ h1, h2, h3, h4, h5,
     bottom: -250px;
     width: 100%; }
   .site-blocks-cover, .site-blocks-cover > .container > .row {
-    min-height: 600px;
-    height: calc(100vh); }
+    min-height: 300px;
+    height: 600px; }
   .site-blocks-cover.inner-page-cover, .site-blocks-cover.inner-page-cover > .container > .row {
-    min-height: 400px;
-    height: calc(20vh); }
+    min-height: 300px;
+    height: 600px; }
   .site-blocks-cover h1 {
     font-size: 3rem;
     font-weight: 400;
@@ -1770,7 +1770,7 @@ h1, h2, h3, h4, h5,
 .main-menu .sub-menu {
     position: absolute;
     list-style: none;
-    width: 200px;
+    width: 260px;
     left: 0;
     top: 100%;
     padding: 20px 0 0 0;
@@ -1874,3 +1874,4 @@ h1, h2, h3, h4, h5,
 #home-section a:hover{
  color: #FFD700;
 }
+

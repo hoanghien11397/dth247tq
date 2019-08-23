@@ -32,6 +32,7 @@
     <link rel="stylesheet" href="{{asset('css/tinTuc.css')}}">
     <link rel="stylesheet" href="{{asset('css/traiNghiem.css')}}">
     <link rel="stylesheet" href="{{asset('css/gioithieu.css')}}">
+    <link rel="stylesheet" href="{{asset('css/tintucchitiet.css')}}">
   
 
 
@@ -76,6 +77,30 @@
   <script src="{{asset('js/main.js')}}"></script>
   
 
+<script>
+//   $(document).ready(function(){
+//   $(".codongs-tt-title").click(function(){
+// 		$(".codongs-tt").toggle(400);
+//   });
+// });
+
+function myFunction() {
+  var x = document.getElementById("codongs-tt");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  };
+}
+  function myFunction2() {
+  var y = document.getElementById("search");
+  if (y.style.display === "none") {
+    y.style.display = "block";
+  } else {
+    y.style.display = "none";
+  }
+  };
+</script>
 </body>
 
 </html>
