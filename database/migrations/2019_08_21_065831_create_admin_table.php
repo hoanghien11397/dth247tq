@@ -25,7 +25,7 @@ class CreateAdminTable extends Migration
             $table->string('password');
             $table->string('phone');
             $table->bigInteger('level')->unsigned();
-            $table->integer('status');
+            $table->tinyInteger('status')->default(1);
             $table->foreign('level')
                   ->references('id')
                   ->on('role')

@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UwrapperA-Compatible" content="IE=edge">
-    <title>Web88-@yield('title')</title>
+    <title>eWins-@yield('title')</title>
     <style>
         .pendding {
 		background-color: lightblue;
