@@ -27,18 +27,19 @@
 
 
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
-    <link rel="stylesheet" href="{{asset('css/dichvu.css')}}">
     <link rel="stylesheet" href="{{asset('css/lienhe.css')}}">
     <link rel="stylesheet" href="{{asset('css/tinTuc.css')}}">
-    <link rel="stylesheet" href="{{asset('css/traiNghiem.css')}}">
     <link rel="stylesheet" href="{{asset('css/gioithieu.css')}}">
-    <link rel="stylesheet" href="{{asset('css/tintucchitiet.css')}}">
+    <link rel="stylesheet" href="{{asset('css/home.css')}}">
+    <link rel="stylesheet" href="{{asset('css/header.css')}}">
+    <link rel="stylesheet" href="{{asset('css/footer.css')}}">
   
 
 
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/da679a1af2.js"></script>
+    <script src="https://kit.fontawesome.com/a3bc2a77c5.js"></script>
     
 
     

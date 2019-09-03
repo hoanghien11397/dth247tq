@@ -1,47 +1,45 @@
 <footer class="site-footer">
   <div class="container">
     <div class="row">
-      <div class="col-md-9">
-        <div class="row">
-          <div class="col-md-4">
-            <h2 class="footer-heading mb-4">Về Chúng Tôi</h2>
-            <p style="font-size: 14px"><i class="fas fa-user-alt"></i> Công ty Công nghệ và Dịch vụ Talent Wins</p>
-            <p style="font-size: 14px"><i class="far fa-address-book"></i> Mã số thuế: 0108134425</p>
-            <p style="font-size: 14px" ><i class="far fa-address-book"></i> 0927 15 15 35</p>
-            <p style="font-size: 14px" ><i class="fas fa-envelope fa-fw"></i> contact@talentwins.co</p>
-          </div>
-          <div class="col-md-4 ml-auto" style="margin-left:0 !important">
-            <h2 class="footer-heading mb-4">Dịch Vụ</h2>
-            <ul class="list-unstyled" style="font-size: 14px">
-              <li><a href="#"> >> Dịch vụ quản trị website</a></li>
-              <li><a href="#"> >> Dịch vụ SEO từ khóa website giá rẻ</a></li>
-              <li><a href="#"> >> Quảng cáo Google Adwords</a></li>
-              <li><a href="#"> >> Thiết kế web du lịch chuyên nghiệp</a></li>
-              <li><a href="#"> >> Thiết kế web tin tức, báo chí online</a></li>
-            </ul>
-          </div>
-          <div class="col-md-4">
-            <h2 class="footer-heading mb-4">Hỗ Trợ</h2>
-            <ul class="list-unstyled" style="font-size: 14px">
-              <li><a href="#"> >> Dịch vụ quản trị website</a></li>
-              <li><a href="#"> >> Dịch vụ SEO từ khóa website giá rẻ</a></li>
-              <li><a href="#"> >> Quảng cáo Google Adwords</a></li>
-              <li><a href="#"> >> Thiết kế web du lịch chuyên nghiệp</a></li>
-              <li><a href="#"> >> Thiết kế web tin tức, báo chí online</a></li>
-            </ul>
+      <div class="col-md-4">
+        <h2><a href=""><img src="{{ asset('images/logo.png')}}" alt=""></a></h2>
+        
+        <ul class="m-b-70 list-unstyled">
+                            <li class="txt14 m-b-14 ">
+                                <i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i>
+                                194 Thanh Đàm, Hoàng Mai, Hà Nội
+                            </li>
+
+                            <li class="txt14 m-b-14">
+                                <i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i>
+                                090 xxx xxxx
+                            </li>
+
+                            <li class="txt14 m-b-14">
+                                <i class="fa fa-envelope fs-13 dis-inline-block size19" aria-hidden="true"></i>
+                                companyname@gmail.com
+                            </li>
+                        </ul>
+        <!-- <p style="font-size: 14px"><i class="fas fa-user-alt"></i> Công ty Công nghệ và Dịch vụ </p>
+        <p style="font-size: 14px"><i class="far fa-address-book"></i> Mã số thuế: </p>
+        <p style="font-size: 14px"><i class="far fa-address-book"></i> 0123456789 </p>
+        <p style="font-size: 14px"><i class="fas fa-envelope fa-fw"></i> contact@abc</p> -->
+      </div>
+      <div class="col-md-4 ml-auto" style="margin-left:0 !important">
+        <h2 class="footer-heading mb-4">LIÊN KẾT KHUYẾN MÃI</h2>
+        <ul class="" style="font-size: 14px">
+          <li><a href="#"> Lorem ipsum dolor sit amet, consectetur adipiscing elit</a></li>
+          <li><a href="#"> Lorem ipsum dolor sit amet, consectetur adipiscing elit</a></li>
+          <li><a href="#"> Lorem ipsum dolor sit amet, consectetur adipiscing elit</a></li>
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <h2 class="footer-heading mb-4">FANPAGE</h2>
+        <div class="widget-container">
+          <div class="facebook-box">
+            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBBT-Fashion-320443365388040%2F&tabs&width=340&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
           </div>
         </div>
-      </div>
-      <div class="col-md-3">
-        <h2 class="footer-heading mb-4">Sản Phẩm Dịch Vụ của Talent Wins</h2>
-        <ul class="list-unstyled" style="font-size: 14px">
-          <li><a href="#"> >> Phần mềm ERP</a></li>
-          <li><a href="#"> >> Website Tuyển Dụng Việc Làm IT DevJob</a></li>
-          <li><a href="#"> >> Dịch vụ Thiết kế website Web88.vn</a></li>
-          <li><a href="#"> >> Website tuyển dung việc làm Topcarreer.co/TotalJobs.vn/Timviecngay.vn</a></li>
-          <li><a href="#"> >> Website việc làm và khởi nghiệp cho Sinh Viên Ytalent.vn</a></li>
-        </ul>
-
       </div>
     </div>
     <hr>
@@ -52,7 +50,7 @@
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             Copyright &copy;<script>
               document.write(new Date().getFullYear());
-            </script> | Designed by Talent Wins 
+            </script>DTH 247 . All rights reserved 
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
           </p>
         </div>

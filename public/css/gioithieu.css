@@ -27,41 +27,20 @@
     line-height: 40px;
     padding-top: 20px;
 }
-.vetrinam #nd {
-    margin-top: 40px;
+.model {
+    display: flex;
+    flex-wrap: wrap;
 }
-.vetrinam .thanhlap {
-    display: inline-block;
-    width: 250px;
-    margin-bottom: 20px;
+.model ul {
+    width: 45%;
+    margin: 5px;
 }
-.vetrinam .nam {
-    color: #088A08;
-    font-size: 35px;
-    font-weight: bold;
+.model ul li a img {
+    width: 100%;
+    margin: 5px;
 }
-.vetrinam .giaithuong .content .tt1 {
-    text-align: center;
-    font-size: 18px;
-    line-height: 40px;
-    font-weight: bold;
-    color: #088A08;
-}
-.vetrinam .giaithuong .content .cc1 .cm {
-    margin: auto;
-    text-align: center;
-    font-size: 14px;
-    font-style: italic;
-    line-height: 22px;
-    padding-top: 8px;
-}
-.vetrinam .giaithuong {
-    background: #f4f6f8;
-   
-}
-.vetrinam .giaithuong .content .cc1 {
-    text-align: center;
-    line-height: 30px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
+#gioi-thieu{
+    background-image: url("../images/gioi-thieu.png");
+    width: 100%;
+    height: 300px;
+  }

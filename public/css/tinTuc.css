@@ -145,3 +145,20 @@
   right:0px;
   top:40px;
 }
+
+.right-content {
+  clear: left;
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+.right-content .img-layer {
+  float: left;
+  margin-right: 20px;
+  width: 50%;
+}
+.right-content .img-layer a img {
+  width: 100%;
+}
+.over-content {
+  overflow: hidden;
+}

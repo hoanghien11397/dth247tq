@@ -1,180 +1,358 @@
 @extends('master-layout')
 
-
 @section('content')
+<main>
+  <div class="vetrinam">
+    <div class="container">
 
- <!-- ##### Tin Tuc  ##### -->
- <section class="blog-area blog-page section-padding-100">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-12">
-                <div class="tt-1">
-                    TIN TỨC
-                </div>
-                <div class="sp-1"></div>
+      <!-- top content -->
+      <div id="lien-he">
+
+
+        <div class="row" style="padding-top:100px">
+          <div class="col-12">
+            <div class="tt">
+              E-LEARNING TALENT WINS
             </div>
+            <div class="sp-1"></div>
+          </div>
         </div>
-        
-        <div class="mt-5">
-        <div class="codongs-tt-title" onclick="myFunction()" >
-                <div  style="padding:10px; color: white">Tin tức <i class="fa fa-angle-down pl-4" aria-hidden="true" style="font-size: 14px"></i></div>
-            </div>
-            <ul class="nav nav-tabs codongs-tt">
-                <li class="nav-item">
-                    <a class="nav-link active" data-toggle="tab" href="#home" style="font-size: 18px">Tin tức về nhân sự</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#menu1" style="font-size: 18px">Tin tức về đào tạo phát triển</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#menu2" style="font-size: 18px">Tin tức quản trị doanh nghiệp</a>
-                </li>
-            </ul>
-
-               
-            <div class="tab-content">
-                <div class="tab-pane  active" id="home">
-                    <div class="col-12 mt-2 mb-2 " data-aos="fade-up" data-aos-delay="300">
-                        <div class="single-blog-area mb-100 wow fadeInUp row">
-                            <div class="col-md-4 p-3"><img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.29/thu-tuong-2-nuoc-va-dai-dien-fpt-gti-tai-buoi-ky-ket.jpg" alt=""></div>
-                        
-                            <div class="blog-content col-md-8">
-                                <a href="{{ route('tintucchitiet') }}" class="blog-headline">
-                                    <h5>Bài học kinh doanh sâu sắc rút ra từ cuốn sách được cả Bill Gates và Warren Buffett khen là 'tuyệt vời nhất'</h5>
-                                </a>
-                                <div class="meta d-flex align-items-center">
-                                    <a href="#">09/18/2019</a>
-                                    <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                    <a href="#">Art &amp; Design</a>
-                                </div>
-                                <p> E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp...</p>
-                                
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 mt-2 mb-2 " data-aos="fade-up" data-aos-delay="300">
-                        <div class="single-blog-area mb-100 wow fadeInUp row">
-                            <div class="col-md-4 p-3"><img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.29/thu-tuong-2-nuoc-va-dai-dien-fpt-gti-tai-buoi-ky-ket.jpg" alt=""></div>
-                        
-                            <div class="blog-content col-md-8">
-                                <a href="#" class="blog-headline">
-                                    <h5>Bài học kinh doanh sâu sắc rút ra từ cuốn sách được cả Bill Gates và Warren Buffett khen là 'tuyệt vời nhất'</h5>
-                                </a>
-                                <div class="meta d-flex align-items-center">
-                                    <a href="#">09/18/2019</a>
-                                    <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                    <a href="#">Art &amp; Design</a>
-                                </div>
-                                <p> E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp...</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="tab-pane  fade" id="menu1">
-                <div class="col-12 mt-2 mb-2 " data-aos="fade-up" data-aos-delay="300">
-                        <div class="single-blog-area mb-100 wow fadeInUp row">
-                            <div class="col-md-4 p-3"><img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.29/thu-tuong-2-nuoc-va-dai-dien-fpt-gti-tai-buoi-ky-ket.jpg" alt=""></div>
-                        
-                            <div class="blog-content col-md-8">
-                                <a href="#" class="blog-headline">
-                                    <h5>Bài học kinh doanh sâu sắc rút ra từ cuốn sách được cả Bill Gates và Warren Buffett khen là 'tuyệt vời nhất'</h5>
-                                </a>
-                                <div class="meta d-flex align-items-center">
-                                    <a href="#">09/18/2019</a>
-                                    <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                    <a href="#">Art &amp; Design</a>
-                                </div>
-                                <p> E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp...</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 mt-2 mb-2 " data-aos="fade-up" data-aos-delay="300">
-                        <div class="single-blog-area mb-100 wow fadeInUp row">
-                            <div class="col-md-4 p-3"><img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.29/thu-tuong-2-nuoc-va-dai-dien-fpt-gti-tai-buoi-ky-ket.jpg" alt=""></div>
-                        
-                            <div class="blog-content col-md-8">
-                                <a href="#" class="blog-headline">
-                                    <h5>Bài học kinh doanh sâu sắc rút ra từ cuốn sách được cả Bill Gates và Warren Buffett khen là 'tuyệt vời nhất'</h5>
-                                </a>
-                                <div class="meta d-flex align-items-center">
-                                    <a href="#">09/18/2019</a>
-                                    <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                    <a href="#">Art &amp; Design</a>
-                                </div>
-                                <p> E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp...</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="tab-pane  fade" id="menu2">
-                <div class="col-12 mt-2 mb-2 " data-aos="fade-up" data-aos-delay="300">
-                        <div class="single-blog-area mb-100 wow fadeInUp row">
-                            <div class="col-md-4 p-3"><img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.29/thu-tuong-2-nuoc-va-dai-dien-fpt-gti-tai-buoi-ky-ket.jpg" alt=""></div>
-                        
-                            <div class="blog-content col-md-8">
-                                <a href="#" class="blog-headline">
-                                    <h5>Bài học kinh doanh sâu sắc rút ra từ cuốn sách được cả Bill Gates và Warren Buffett khen là 'tuyệt vời nhất'</h5>
-                                </a>
-                                <div class="meta d-flex align-items-center">
-                                    <a href="#">09/18/2019</a>
-                                    <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                    <a href="#">Art &amp; Design</a>
-                                </div>
-                                <p> E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp...</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 mt-2 mb-2 " data-aos="fade-up" data-aos-delay="300">
-                        <div class="single-blog-area mb-100 wow fadeInUp row">
-                            <div class="col-md-4 p-3"><img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.29/thu-tuong-2-nuoc-va-dai-dien-fpt-gti-tai-buoi-ky-ket.jpg" alt=""></div>
-                        
-                            <div class="blog-content col-md-8">
-                                <a href="#" class="blog-headline">
-                                    <h5>Bài học kinh doanh sâu sắc rút ra từ cuốn sách được cả Bill Gates và Warren Buffett khen là 'tuyệt vời nhất'</h5>
-                                </a>
-                                <div class="meta d-flex align-items-center">
-                                    <a href="#">09/18/2019</a>
-                                    <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                    <a href="#">Art &amp; Design</a>
-                                </div>
-                                <p> E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp...</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        
-
-                <!-- Single Blog Area -->
-                <!-- <div class="col-12 col-lg-4" data-aos="fade-up" data-aos-delay="300">
-                    <div class="single-blog-area mb-100 wow fadeInUp">
-                        <img style="height: 237px;" src="http://trinam.com.vn/Data/Portals/0/Users/1/Images/2016.12.29/thu-tuong-2-nuoc-va-dai-dien-fpt-gti-tai-buoi-ky-ket.jpg" alt="">
-                      
-                        <div class="blog-content">
-                            <a href="#" class="blog-headline">
-                                <h5>Bài học kinh doanh sâu sắc rút ra từ cuốn sách được cả Bill Gates và Warren Buffett khen là 'tuyệt vời nhất'</h5>
-                            </a>
-                            <div class="meta d-flex align-items-center">
-                                <a href="#">09/18/2019</a>
-                                <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                <a href="#">Art &amp; Design</a>
-                            </div>
-                            <p> E-learning giải pháp đã giành Giải Nhất Nhân Tài Đất Việt cho giải pháp...</p>
-                        </div>
-                    </div>
-                </div> -->
+      </div>
     </div>
 
-        
+    <!-- Content page -->
+    <section>
+      <div class="bread-crumb bo5-b p-t-17 p-b-17">
+        <div class="container">
+          <a href="index.html" class="txt27">
+            Home
+          </a>
+
+          <span class="txt29 m-l-10 m-r-10">/</span>
+
+          <span class="txt29">
+            Tin Tức
+          </span>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 col-lg-3">
+            <div class="sidebar2 p-t-80 p-b-80 p-l-20 p-l-0-md p-t-0-md">
+              <!-- Search -->
+              <div class="search-sidebar2 size12 bo2 pos-relative">
+                <input class="input-search-sidebar2 txt10 p-l-20 p-r-55" type="text" name="search" placeholder="Search">
+                <button class="btn-search-sidebar2 flex-c-m ti-search trans-0-4"></button>
+              </div>
+
+              <!-- Categories -->
+              <div class="categories">
+                <h4 class="txt33 bo5-b p-b-35 p-t-58">
+                  Categories
+                </h4>
+
+                <ul>
+                  <li class="bo5-b p-t-8 p-b-8">
+                    <a href="#" class="txt27">
+                      Cooking recipe
+                    </a>
+                  </li>
+
+                  <li class="bo5-b p-t-8 p-b-8">
+                    <a href="#" class="txt27">
+                      Delicious foods
+                    </a>
+                  </li>
+
+                  <li class="bo5-b p-t-8 p-b-8">
+                    <a href="#" class="txt27">
+                      Events Design
+                    </a>
+                  </li>
+
+                  <li class="bo5-b p-t-8 p-b-8">
+                    <a href="#" class="txt27">
+                      Restaurant Place
+                    </a>
+                  </li>
+
+                  <li class="bo5-b p-t-8 p-b-8">
+                    <a href="#" class="txt27">
+                      WordPress
+                    </a>
+                  </li>
+                </ul>
+              </div>
+
+          
+                	<!-- Most Popular -->
+					<div class="popular">
+						<h4 class="txt33 p-b-35 p-t-58">
+							Most popular
+						</h4>
+
+						<ul>
+							<li class="right-content">
+								<div class="img-layer">
+									<a href="#">
+										<img src="../public/images/Layer-24-tin-tuc.png" alt="IMG-BLOG">
+									</a>
+								</div>
+
+								<div class="over-content">
+									<a href="#" class="">
+										Best Places for Wine Best Places for Wine 
+
+									</a>
+
+									<span class="">
+										3 days ago
+									</span>
+								</div>
+							</li>
+
+							<li class="right-content">
+								<div class="img-layer">
+									<a href="#">
+										<img src="../public/images/Layer-29-tin-tuc.png" alt="IMG-BLOG">
+									</a>
+								</div>
+
+								<div class="over-content">
+									<a href="#" class="">
+										Eggs and Cheese
+									</a>
+
+									<span class="">
+										July 2, 2017
+									</span>
+								</div>
+							</li>
+
+							<li class="right-content">
+								<div class="img-layer">
+									<a href="#">
+										<img src="../public/images/Layer-30-tin-tuc.png" alt="IMG-BLOG">
+									</a>
+								</div>
+
+								<div class="over-content">
+									<a href="#" class="dis-block txt28 m-b-8">
+										Style the Wedding Party
+									</a>
+
+									<span class="txt14">
+										May 28, 2017
+									</span>
+								</div>
+							</li>
+
+							<li class="right-content">
+								<div class="img-layer">
+									<a href="#">
+										<img src="images/Layer-31-tin-tuc.png" alt="IMG-BLOG">
+									</a>
+								</div>
+
+								<div class="over-content">
+									<a href="#" class="dis-block txt28 m-b-8">
+										Cooking recipe Delicious
+									</a>
+
+									<span class="txt14">
+										May 25, 2017
+									</span>
+								</div>
+							</li>
+						</ul>
+					</div>
+
+
+              <!-- Archive -->
+              <div class="archive">
+                <h4 class="txt33 p-b-20 p-t-43">
+                  Archive
+                </h4>
+
+                <ul>
+                  <li class="flex-sb-m p-t-8 p-b-8">
+                    <a href="#" class="txt27">
+                      uly 2018
+                    </a>
+
+                    <span class="txt29">
+                      (9)
+                    </span>
+                  </li>
+
+                  <li class="flex-sb-m p-t-8 p-b-8">
+                    <a href="#" class="txt27">
+                      June 2018
+                    </a>
+
+                    <span class="txt29">
+                      (39)
+                    </span>
+                  </li>
+
+                  <li class="flex-sb-m p-t-8 p-b-8">
+                    <a href="#" class="txt27">
+                      May 2018
+                    </a>
+
+                    <span class="txt29">
+                      (29)
+                    </span>
+                  </li>
+
+                  <li class="flex-sb-m p-t-8 p-b-8">
+                    <a href="#" class="txt27">
+                      April 2018
+                    </a>
+
+                    <span class="txt29">
+                      (35)
+                    </span>
+                  </li>
+
+                  <li class="flex-sb-m p-t-8 p-b-8">
+                    <a href="#" class="txt27">
+                      March 2018
+                    </a>
+
+                    <span class="txt29">
+                      (22)
+                    </span>
+                  </li>
+
+                  <li class="flex-sb-m p-t-8 p-b-8">
+                    <a href="#" class="txt27">
+                      February 2018
+                    </a>
+
+                    <span class="txt29">
+                      (32)
+                    </span>
+                  </li>
+
+                  <li class="flex-sb-m p-t-8 p-b-8">
+                    <a href="#" class="txt27">
+                      January 2018
+                    </a>
+
+                    <span class="txt29">
+                      (21)
+                    </span>
+                  </li>
+
+                  <li class="flex-sb-m p-t-8 p-b-8">
+                    <a href="#" class="txt27">
+                      December 2017
+                    </a>
+
+                    <span class="txt29">
+                      (26)
+                    </span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-8 col-lg-9">
+              	<!-- Most Popular -->
+					<div class="popular">
+						<h4 class="txt33 p-b-35 p-t-58">
+							Most popular
+						</h4>
+
+						<ul>
+							<li class="right-content">
+								<div class="img-layer">
+									<a href="#">
+										<img src="../public/images/Layer-24-tin-tuc.png" alt="IMG-BLOG">
+									</a>
+								</div>
+
+								<div class="over-content">
+									<a href="#" class="">
+										Best Places for Wine Best Places for Wine Best Places for Wine Best Places for Wine Best Places for Wine Best Places for Wine Best Places for Wine Best Places for Wine Best Places for Wine Best Places for Wine
+
+									</a>
+
+									<span class="">
+										3 days ago
+									</span>
+								</div>
+							</li>
+
+							<li class="right-content">
+								<div class="img-layer">
+									<a href="#">
+										<img src="../public/images/Layer-29-tin-tuc.png" alt="IMG-BLOG">
+									</a>
+								</div>
+
+								<div class="over-content">
+									<a href="#" class="">
+										Eggs and Cheese
+									</a>
+
+									<span class="">
+										July 2, 2017
+									</span>
+								</div>
+							</li>
+
+							<li class="right-content">
+								<div class="img-layer">
+									<a href="#">
+										<img src="../public/images/Layer-30-tin-tuc.png" alt="IMG-BLOG">
+									</a>
+								</div>
+
+								<div class="over-content">
+									<a href="#" class="dis-block txt28 m-b-8">
+										Style the Wedding Party
+									</a>
+
+									<span class="txt14">
+										May 28, 2017
+									</span>
+								</div>
+							</li>
+
+							<li class="right-content">
+								<div class="img-layer">
+									<a href="#">
+										<img src="images/Layer-31-tin-tuc.png" alt="IMG-BLOG">
+									</a>
+								</div>
+
+								<div class="over-content">
+									<a href="#" class="dis-block txt28 m-b-8">
+										Cooking recipe Delicious
+									</a>
+
+									<span class="txt14">
+										May 25, 2017
+									</span>
+								</div>
+							</li>
+						</ul>
+					</div>
+          </div>
+
+        </div>
+      </div>
     </section>
-    
 
 
+  </div>
+</main>
+</body>
+
+</html>
 
 @endsection
